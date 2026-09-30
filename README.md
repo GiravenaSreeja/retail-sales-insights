@@ -1,6 +1,6 @@
 # Retail Sales Insights Dashboard
 
-An end-to-end data analytics project: I took a retail sales dataset, ran a full exploratory analysis in Python, answered the same questions in SQL, and built an interactive Streamlit dashboard on top
+An end-to-end data analytics project: I took a retail sales dataset, ran a full exploratory analysis in Python, answered the same questions in SQL, and built an interactive Streamlit dashboard on top.
 
 ## Why I built this
 
