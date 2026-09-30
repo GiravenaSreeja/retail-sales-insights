@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Segment,Region,State,Category,Sub-Category,Product Name,Quantity,Discount,Sales,Profit
+ORD-1000,2024-10-16,2024-10-17,Standard Class,Home Office,East,Pennsylvania,Furniture,Tables,Oak Coffee Table,6,0,1971.8,626.35
+ORD-1001,2024-03-08,2024-03-09,Same Day,Consumer,East,New York,Furniture,Tables,Folding Conference Table,5,0,1530.02,405.16
+ORD-1002,2024-04-04,2024-04-09,Standard Class,Consumer,Central,Texas,Furniture,Furnishings,Area Rug 5x7,3,0,714.6,199.41
+ORD-1003,2024-01-25,2024-01-26,Same Day,Consumer,Central,Ohio,Technology,Machines,Laser Printer,6,0.1,1277.53,334.63
+ORD-1004,2024-07-19,2024-07-22,Second Class,Consumer,Central,Colorado,Furniture,Chairs,Ergonomic Office Chair,6,0,2085.13,720.55
+ORD-1005,2024-01-25,2024-01-28,Standard Class,Home Office,South,Alabama,Furniture,Bookcases,Corner Bookshelf,2,0.2,397.32,67.94
+ORD-1006,2024-10-12,2024-10-14,Standard Class,Consumer,West,Washington,Office Supplies,Storage,Desk Drawer Unit,6,0.2,235.41,22.45
+ORD-1007,2023-02-02,2023-02-09,Same Day,Home Office,Central,Missouri,Office Supplies,Binders,Leather Binder Set,5,0.2,165.65,14.35
+ORD-1008,2024-04-14,2024-04-16,Second Class,Consumer,Central,Illinois,Furniture,Bookcases,Wall-Mount Shelf,5,0.1,1673.88,150.35
+ORD-1009,2024-06-05,2024-06-09,Same Day,Corporate,East,New York,Furniture,Tables,Folding Conference Table,2,0.3,461.12,-5.11
+ORD-1010,2024-09-02,2024-09-06,Standard Class,Corporate,Central,Colorado,Furniture,Chairs,Mesh Task Chair,5,0.3,869.04,1.99
+ORD-1011,2024-03-21,2024-03-23,Second Class,Consumer,South,North Carolina,Technology,Machines,Laser Printer,5,0,1440.3,200.97
+ORD-1012,2024-01-18,2024-01-25,First Class,Consumer,West,Nevada,Technology,Phones,Smartphone Stand,4,0,684.91,108.83
+ORD-1013,2023-03-01,2023-03-03,Second Class,Corporate,East,New York,Technology,Copiers,Office Copier Pro,5,0.3,606.78,4.81
+ORD-1014,2024-06-24,2024-07-01,Same Day,Home Office,South,Tennessee,Technology,Accessories,Laptop Sleeve,3,0.1,829.58,136.85
+ORD-1015,2024-04-07,2024-04-08,Standard Class,Home Office,West,Washington,Furniture,Bookcases,5-Shelf Bookcase,5,0.15,1024.69,-4.03
+ORD-1016,2024-10-08,2024-10-09,Second Class,Home Office,West,California,Furniture,Bookcases,5-Shelf Bookcase,5,0,1252.91,245.1
+ORD-1017,2024-08-07,2024-08-12,Same Day,Corporate,South,Tennessee,Office Supplies,Storage,File Organizer Box,1,0,52.26,8.17
+ORD-1018,2023-02-25,2023-03-03,Same Day,Consumer,East,New York,Office Supplies,Art,Acrylic Paint Set,2,0,74.98,13.84
+ORD-1019,2023-10-13,2023-10-17,Standard Class,Consumer,West,California,Office Supplies,Appliances,Paper Shredder,1,0.2,50.38,7.09
+ORD-1020,2023-06-20,2023-06-24,Same Day,Corporate,South,Louisiana,Furniture,Furnishings,Floor Lamp,2,0.1,353.56,30.8
+ORD-1021,2024-03-09,2024-03-15,First Class,Consumer,South,Tennessee,Furniture,Bookcases,5-Shelf Bookcase,1,0.15,289.17,-14.95
+ORD-1022,2023-02-21,2023-02-26,Standard Class,Home Office,South,Kentucky,Technology,Accessories,USB-C Hub,5,0,1425.53,100.58
+ORD-1023,2023-08-29,2023-09-02,First Class,Corporate,East,Virginia,Furniture,Chairs,Mesh Task Chair,1,0.1,292.36,40.8
+ORD-1024,2023-07-29,2023-08-04,Standard Class,Consumer,Central,Illinois,Office Supplies,Storage,File Organizer Box,6,0.2,196.56,-2.98
+ORD-1025,2024-04-14,2024-04-19,Second Class,Corporate,East,New York,Technology,Accessories,Laptop Sleeve,3,0,893.17,280.69
+ORD-1026,2023-10-19,2023-10-21,Standard Class,Consumer,South,Kentucky,Technology,Machines,Laser Printer,6,0.3,1005.52,90.02
+ORD-1027,2023-09-28,2023-09-29,First Class,Home Office,East,Virginia,Furniture,Bookcases,Corner Bookshelf,5,0,1683.26,186.98
+ORD-1028,2024-05-15,2024-05-18,First Class,Consumer,East,New York,Technology,Copiers,Compact Copier,1,0,205.37,18.33
+ORD-1029,2024-03-28,2024-04-02,Second Class,Corporate,South,Kentucky,Furniture,Chairs,Ergonomic Office Chair,6,0,1817.61,545.97
+ORD-1030,2023-05-11,2023-05-12,Same Day,Home Office,Central,Ohio,Furniture,Bookcases,5-Shelf Bookcase,6,0,1960.31,306.01
+ORD-1031,2023-06-08,2023-06-10,Second Class,Corporate,West,Washington,Office Supplies,Binders,Leather Binder Set,6,0,336.87,58.45
+ORD-1032,2023-06-13,2023-06-20,Second Class,Consumer,East,Georgia,Furniture,Furnishings,Floor Lamp,2,0.3,526.42,-44.8
+ORD-1033,2023-01-25,2023-01-31,First Class,Consumer,West,Arizona,Office Supplies,Art,Acrylic Paint Set,3,0,155.12,26.36
+ORD-1034,2023-04-29,2023-05-02,Same Day,Home Office,West,Nevada,Office Supplies,Binders,Leather Binder Set,5,0.1,190.75,39.28
+ORD-1035,2024-06-07,2024-06-08,Second Class,Corporate,South,Kentucky,Furniture,Bookcases,5-Shelf Bookcase,6,0.1,1060.19,262.58
+ORD-1036,2024-03-17,2024-03-18,First Class,Home Office,Central,Colorado,Office Supplies,Binders,3-Ring Binder Pack,5,0,262.54,38.82
+ORD-1037,2023-05-11,2023-05-13,First Class,Corporate,South,Louisiana,Technology,Accessories,Laptop Sleeve,5,0,1082.68,324.93
+ORD-1038,2023-08-04,2023-08-08,Second Class,Home Office,Central,Missouri,Office Supplies,Storage,File Organizer Box,5,0.1,254.26,65.59
+ORD-1039,2023-03-28,2023-03-31,Same Day,Home Office,Central,Texas,Furniture,Bookcases,5-Shelf Bookcase,2,0,401.57,49.57
+ORD-1040,2023-03-16,2023-03-20,Standard Class,Corporate,South,Kentucky,Furniture,Furnishings,Area Rug 5x7,4,0,899.7,230.58
+ORD-1041,2023-08-13,2023-08-15,First Class,Corporate,South,North Carolina,Technology,Accessories,USB-C Hub,4,0,1109.67,277.72
+ORD-1042,2024-09-19,2024-09-26,First Class,Home Office,South,Kentucky,Office Supplies,Paper,Recycled Notebook Pack,4,0,220.72,66.65
+ORD-1043,2024-05-11,2024-05-17,Standard Class,Consumer,West,Oregon,Office Supplies,Binders,3-Ring Binder Pack,2,0,84.16,26.76
+ORD-1044,2023-06-04,2023-06-06,Standard Class,Consumer,South,Tennessee,Technology,Accessories,USB-C Hub,4,0.1,737.84,81.0
+ORD-1045,2024-03-06,2024-03-10,Same Day,Home Office,East,Virginia,Office Supplies,Storage,File Organizer Box,3,0,165.7,50.71
+ORD-1046,2024-07-13,2024-07-20,Same Day,Home Office,West,Arizona,Furniture,Bookcases,Corner Bookshelf,4,0,1088.86,272.94
+ORD-1047,2023-06-19,2023-06-26,Same Day,Consumer,South,Tennessee,Technology,Phones,Smartphone Stand,5,0.15,1088.43,-48.78
+ORD-1048,2024-04-17,2024-04-19,First Class,Corporate,East,Pennsylvania,Office Supplies,Art,Acrylic Paint Set,4,0,168.53,52.9
+ORD-1049,2023-09-16,2023-09-23,Standard Class,Consumer,East,Georgia,Furniture,Chairs,Wooden Dining Chair,2,0.2,335.12,59.38
+ORD-1050,2023-09-11,2023-09-13,Same Day,Home Office,East,Virginia,Furniture,Tables,Oak Coffee Table,4,0.2,698.95,121.85
+ORD-1051,2023-09-20,2023-09-27,Same Day,Corporate,Central,Illinois,Technology,Phones,Wireless Headset,3,0,729.35,239.71
+ORD-1052,2023-07-23,2023-07-24,First Class,Consumer,West,California,Technology,Machines,Laser Printer,5,0.3,561.14,-16.93
+ORD-1053,2024-06-02,2024-06-08,Second Class,Corporate,Central,Texas,Office Supplies,Storage,File Organizer Box,4,0,206.08,61.54
+ORD-1054,2023-06-30,2023-07-06,Second Class,Consumer,Central,Colorado,Technology,Copiers,Compact Copier,4,0.3,746.42,-81.72
+ORD-1055,2023-10-13,2023-10-17,Second Class,Corporate,West,Arizona,Technology,Copiers,Compact Copier,1,0.1,256.54,6.3
+ORD-1056,2023-09-22,2023-09-25,Same Day,Home Office,Central,Colorado,Technology,Machines,Laser Printer,5,0,835.92,222.37
+ORD-1057,2023-09-04,2023-09-10,First Class,Corporate,South,Louisiana,Office Supplies,Binders,Leather Binder Set,3,0,132.72,16.32
+ORD-1058,2024-07-20,2024-07-25,Standard Class,Home Office,Central,Missouri,Technology,Machines,Portable Scanner,6,0.1,1056.89,48.01
+ORD-1059,2023-07-17,2023-07-20,First Class,Consumer,East,Virginia,Technology,Accessories,USB-C Hub,2,0.2,365.71,39.27
+ORD-1060,2023-07-18,2023-07-21,Standard Class,Home Office,West,Oregon,Furniture,Bookcases,5-Shelf Bookcase,6,0.15,1126.13,-63.45
+ORD-1061,2023-10-27,2023-11-02,Standard Class,Corporate,West,Arizona,Furniture,Chairs,Mesh Task Chair,3,0.1,782.54,56.51
+ORD-1062,2024-05-04,2024-05-05,Standard Class,Consumer,East,Georgia,Office Supplies,Binders,Leather Binder Set,2,0,114.1,38.19
+ORD-1063,2023-05-02,2023-05-07,Same Day,Corporate,South,Kentucky,Technology,Accessories,Laptop Sleeve,4,0.1,1058.07,62.64
+ORD-1064,2024-08-05,2024-08-10,Second Class,Consumer,East,Virginia,Technology,Phones,Wireless Headset,6,0,1168.53,86.89
+ORD-1065,2024-07-19,2024-07-20,Same Day,Consumer,West,California,Office Supplies,Storage,Desk Drawer Unit,3,0,116.37,30.5
+ORD-1066,2024-12-04,2024-12-06,First Class,Consumer,Central,Colorado,Technology,Accessories,Wireless Mouse,1,0.15,160.33,-4.06
+ORD-1067,2023-03-15,2023-03-16,First Class,Home Office,West,Oregon,Technology,Machines,Portable Scanner,1,0.1,234.05,42.11
+ORD-1068,2024-07-06,2024-07-10,Second Class,Home Office,South,North Carolina,Technology,Phones,Smartphone Stand,6,0,1481.83,85.59
+ORD-1069,2024-08-12,2024-08-17,Second Class,Home Office,East,Pennsylvania,Technology,Phones,Wireless Headset,4,0.15,864.73,177.12
+ORD-1070,2024-03-22,2024-03-28,First Class,Corporate,South,North Carolina,Office Supplies,Art,Sketchbook A3,3,0,157.83,48.5
+ORD-1071,2024-12-11,2024-12-15,Same Day,Home Office,Central,Missouri,Technology,Phones,Smartphone Stand,1,0,192.87,16.35
+ORD-1072,2023-01-02,2023-01-08,Standard Class,Consumer,South,Louisiana,Furniture,Tables,Folding Conference Table,3,0.15,877.87,103.26
+ORD-1073,2023-10-01,2023-10-06,Second Class,Corporate,West,Oregon,Office Supplies,Storage,File Organizer Box,1,0.2,40.54,-1.55
+ORD-1074,2024-07-18,2024-07-19,First Class,Home Office,South,North Carolina,Furniture,Chairs,Wooden Dining Chair,1,0.2,287.28,11.35
+ORD-1075,2024-12-23,2024-12-26,Second Class,Consumer,South,Louisiana,Office Supplies,Paper,Recycled Notebook Pack,5,0,217.91,71.16
+ORD-1076,2023-10-10,2023-10-17,Same Day,Consumer,South,Alabama,Technology,Machines,Laser Printer,3,0.2,479.95,31.72
+ORD-1077,2024-04-02,2024-04-07,Second Class,Home Office,South,Alabama,Office Supplies,Appliances,Label Printer,4,0,235.57,81.09
+ORD-1078,2024-01-28,2024-01-30,Second Class,Corporate,South,North Carolina,Office Supplies,Storage,Desk Drawer Unit,4,0.2,180.67,15.47
+ORD-1079,2023-02-07,2023-02-09,Second Class,Consumer,Central,Texas,Office Supplies,Binders,3-Ring Binder Pack,1,0.2,28.83,4.36
+ORD-1080,2024-04-25,2024-05-02,First Class,Home Office,Central,Ohio,Technology,Copiers,Office Copier Pro,3,0.3,541.49,-16.2
+ORD-1081,2024-05-14,2024-05-21,Same Day,Consumer,East,Virginia,Furniture,Tables,Folding Conference Table,6,0,2348.97,643.69
+ORD-1082,2024-10-10,2024-10-16,First Class,Corporate,East,Georgia,Furniture,Bookcases,5-Shelf Bookcase,1,0,352.04,48.59
+ORD-1083,2023-05-30,2023-06-01,Second Class,Corporate,South,Kentucky,Technology,Accessories,USB-C Hub,2,0,495.72,81.68
+ORD-1084,2024-08-20,2024-08-22,First Class,Home Office,West,Arizona,Technology,Machines,Portable Scanner,3,0.2,373.07,49.02
+ORD-1085,2024-07-13,2024-07-15,First Class,Consumer,East,Georgia,Office Supplies,Appliances,Label Printer,6,0.1,287.52,30.78
+ORD-1086,2024-01-29,2024-02-05,Standard Class,Home Office,South,North Carolina,Furniture,Furnishings,Wall Clock,3,0.15,647.68,90.54
+ORD-1087,2024-02-10,2024-02-13,First Class,Consumer,East,Virginia,Technology,Phones,Smartphone Stand,3,0.3,581.75,-4.58
+ORD-1088,2024-10-13,2024-10-15,Second Class,Consumer,Central,Illinois,Technology,Phones,Wireless Headset,3,0.3,465.96,-7.51
+ORD-1089,2023-10-30,2023-11-02,Second Class,Corporate,South,Tennessee,Furniture,Tables,Folding Conference Table,3,0.15,750.6,8.83
+ORD-1090,2024-05-08,2024-05-15,Same Day,Home Office,Central,Ohio,Furniture,Furnishings,Floor Lamp,2,0.3,539.61,36.72
+ORD-1091,2024-01-10,2024-01-11,Same Day,Home Office,South,North Carolina,Office Supplies,Appliances,Paper Shredder,4,0,210.78,53.05
+ORD-1092,2024-01-16,2024-01-17,First Class,Home Office,West,Arizona,Furniture,Bookcases,Wall-Mount Shelf,2,0.2,333.42,45.73
+ORD-1093,2024-02-23,2024-02-24,Same Day,Corporate,West,California,Furniture,Bookcases,Corner Bookshelf,1,0,242.02,51.13
+ORD-1094,2024-01-15,2024-01-21,First Class,Consumer,South,Kentucky,Technology,Accessories,Wireless Mouse,6,0,1694.33,397.65
+ORD-1095,2024-12-07,2024-12-10,First Class,Consumer,West,Arizona,Office Supplies,Paper,Recycled Notebook Pack,1,0.2,34.46,5.53
+ORD-1096,2024-02-12,2024-02-15,First Class,Consumer,West,California,Office Supplies,Binders,Leather Binder Set,6,0.2,241.49,-25.02
+ORD-1097,2023-05-09,2023-05-16,Second Class,Home Office,West,California,Technology,Accessories,Laptop Sleeve,2,0.3,403.11,-36.86
+ORD-1098,2023-01-03,2023-01-06,First Class,Consumer,West,Washington,Technology,Machines,Laser Printer,1,0.2,229.95,-16.2
+ORD-1099,2024-08-25,2024-08-28,Same Day,Corporate,East,Florida,Office Supplies,Binders,Leather Binder Set,6,0.1,259.59,50.28
+ORD-1100,2024-01-06,2024-01-11,First Class,Corporate,East,Georgia,Technology,Accessories,Laptop Sleeve,1,0.2,219.69,32.97
+ORD-1101,2024-10-20,2024-10-21,Standard Class,Corporate,East,Georgia,Office Supplies,Storage,File Organizer Box,4,0.2,192.5,-16.93
+ORD-1102,2024-09-14,2024-09-16,Same Day,Consumer,East,Florida,Office Supplies,Appliances,Label Printer,4,0.15,163.92,10.84
+ORD-1103,2024-12-19,2024-12-20,Standard Class,Corporate,West,Arizona,Office Supplies,Paper,Recycled Notebook Pack,3,0.3,96.15,-6.27
+ORD-1104,2024-03-13,2024-03-16,First Class,Consumer,Central,Ohio,Furniture,Furnishings,Floor Lamp,1,0.3,148.91,-9.0
+ORD-1105,2024-07-23,2024-07-24,First Class,Consumer,Central,Texas,Office Supplies,Art,Sketchbook A3,6,0,372.03,85.61
+ORD-1106,2024-08-14,2024-08-19,First Class,Home Office,West,Washington,Technology,Copiers,Office Copier Pro,1,0,284.19,45.55
+ORD-1107,2023-08-20,2023-08-27,First Class,Corporate,South,Kentucky,Technology,Phones,Smartphone Stand,1,0,196.08,54.65
+ORD-1108,2023-01-07,2023-01-09,Second Class,Corporate,West,Nevada,Technology,Copiers,Office Copier Pro,2,0.2,402.41,-40.56
+ORD-1109,2024-03-05,2024-03-09,Second Class,Home Office,Central,Illinois,Office Supplies,Art,Sketchbook A3,5,0.15,145.25,-7.88
+ORD-1110,2023-02-20,2023-02-26,Standard Class,Corporate,East,Pennsylvania,Office Supplies,Storage,Desk Drawer Unit,5,0.1,200.46,6.95
+ORD-1111,2024-03-16,2024-03-17,Standard Class,Consumer,Central,Colorado,Office Supplies,Appliances,Label Printer,1,0,43.95,10.1
+ORD-1112,2023-11-05,2023-11-07,Same Day,Home Office,West,Oregon,Office Supplies,Art,Acrylic Paint Set,1,0.1,49.53,1.12
+ORD-1113,2024-12-21,2024-12-23,Same Day,Home Office,Central,Texas,Office Supplies,Binders,3-Ring Binder Pack,1,0.1,54.46,12.45
+ORD-1114,2024-02-19,2024-02-25,First Class,Consumer,South,Alabama,Furniture,Furnishings,Floor Lamp,3,0,1059.18,249.37
+ORD-1115,2024-03-23,2024-03-30,First Class,Consumer,East,Florida,Office Supplies,Appliances,Label Printer,5,0,219.83,31.45
+ORD-1116,2023-12-08,2023-12-15,Second Class,Consumer,West,California,Technology,Phones,Wireless Headset,3,0,798.05,235.97
+ORD-1117,2023-04-16,2023-04-18,Same Day,Home Office,Central,Illinois,Furniture,Tables,Folding Conference Table,1,0,382.45,91.17
+ORD-1118,2024-08-16,2024-08-20,Standard Class,Corporate,Central,Ohio,Furniture,Furnishings,Floor Lamp,4,0.1,1151.11,240.47
+ORD-1119,2024-06-03,2024-06-04,Standard Class,Home Office,Central,Missouri,Office Supplies,Binders,Leather Binder Set,3,0.3,85.14,0.29
+ORD-1120,2024-08-31,2024-09-05,Second Class,Consumer,South,Louisiana,Technology,Phones,Smartphone Stand,5,0.2,731.96,52.34
+ORD-1121,2024-04-06,2024-04-07,Second Class,Corporate,Central,Texas,Technology,Accessories,USB-C Hub,2,0.2,354.26,7.73
+ORD-1122,2024-01-17,2024-01-20,Same Day,Corporate,South,Louisiana,Office Supplies,Appliances,Paper Shredder,6,0.2,201.8,-2.24
+ORD-1123,2023-09-16,2023-09-22,Standard Class,Corporate,West,Oregon,Furniture,Tables,Standing Desk,3,0.2,798.96,6.06
+ORD-1124,2024-07-26,2024-07-30,Second Class,Corporate,Central,Illinois,Technology,Phones,Smartphone Stand,5,0,784.04,111.85
+ORD-1125,2024-05-12,2024-05-14,Standard Class,Home Office,West,Washington,Furniture,Chairs,Wooden Dining Chair,1,0.15,295.03,53.26
+ORD-1126,2023-12-11,2023-12-18,Second Class,Home Office,West,Nevada,Office Supplies,Paper,A4 Copy Paper 500ct,2,0.3,74.65,-0.19
+ORD-1127,2024-03-24,2024-03-25,Second Class,Home Office,South,Alabama,Technology,Accessories,Wireless Mouse,5,0,1349.34,384.75
+ORD-1128,2023-09-02,2023-09-05,Same Day,Consumer,South,Tennessee,Office Supplies,Appliances,Label Printer,4,0.3,113.05,-8.53
+ORD-1129,2023-07-24,2023-07-31,Standard Class,Corporate,West,Oregon,Furniture,Furnishings,Area Rug 5x7,5,0,1677.17,343.44
+ORD-1130,2023-03-27,2023-04-03,Same Day,Corporate,West,Oregon,Office Supplies,Appliances,Paper Shredder,4,0,245.25,28.6
+ORD-1131,2023-01-28,2023-02-01,Standard Class,Home Office,East,Georgia,Technology,Machines,Laser Printer,4,0,846.95,49.51
+ORD-1132,2024-10-27,2024-10-30,Same Day,Home Office,West,Washington,Furniture,Bookcases,Corner Bookshelf,6,0.3,937.45,20.31
+ORD-1133,2023-01-06,2023-01-07,First Class,Consumer,East,Pennsylvania,Furniture,Tables,Folding Conference Table,6,0.15,1527.16,-55.96
+ORD-1134,2023-11-05,2023-11-06,Standard Class,Home Office,East,Florida,Office Supplies,Appliances,Label Printer,1,0,57.86,11.57
+ORD-1135,2024-06-11,2024-06-16,Standard Class,Home Office,West,Washington,Office Supplies,Storage,File Organizer Box,5,0,195.39,34.19
+ORD-1136,2024-01-05,2024-01-06,Standard Class,Corporate,East,Georgia,Office Supplies,Binders,3-Ring Binder Pack,3,0,165.12,25.95
+ORD-1137,2023-09-04,2023-09-10,Second Class,Home Office,East,Virginia,Technology,Machines,Laser Printer,1,0,238.09,70.01
+ORD-1138,2024-04-20,2024-04-26,Second Class,Consumer,South,Tennessee,Furniture,Chairs,Mesh Task Chair,4,0,1014.06,64.03
+ORD-1139,2023-11-20,2023-11-23,Standard Class,Home Office,South,Kentucky,Office Supplies,Art,Acrylic Paint Set,6,0,243.07,75.02
+ORD-1140,2023-12-06,2023-12-09,Same Day,Corporate,East,Pennsylvania,Office Supplies,Storage,Desk Drawer Unit,4,0,248.69,49.45
+ORD-1141,2024-06-15,2024-06-18,First Class,Home Office,East,Georgia,Furniture,Furnishings,Wall Clock,2,0.15,431.08,-16.91
+ORD-1142,2023-10-30,2023-11-02,First Class,Home Office,South,Kentucky,Technology,Copiers,Office Copier Pro,6,0.1,1123.95,-19.44
+ORD-1143,2024-03-21,2024-03-24,Standard Class,Consumer,East,New York,Technology,Copiers,Compact Copier,5,0.3,943.2,-133.94
+ORD-1144,2024-09-14,2024-09-20,Standard Class,Home Office,South,North Carolina,Furniture,Chairs,Ergonomic Office Chair,6,0,1601.89,536.38
+ORD-1145,2023-06-07,2023-06-13,First Class,Consumer,South,Alabama,Office Supplies,Storage,File Organizer Box,5,0,240.89,40.81
+ORD-1146,2023-04-27,2023-04-28,First Class,Home Office,West,Arizona,Technology,Copiers,Office Copier Pro,3,0.3,407.58,-22.87
+ORD-1147,2024-05-17,2024-05-19,First Class,Home Office,East,Florida,Furniture,Furnishings,Floor Lamp,6,0.1,2113.9,450.59
+ORD-1148,2023-12-22,2023-12-28,Second Class,Corporate,East,Virginia,Technology,Machines,Portable Scanner,2,0.2,421.24,42.15
+ORD-1149,2024-06-04,2024-06-06,Second Class,Home Office,East,Florida,Furniture,Tables,Standing Desk,1,0,304.59,48.94
+ORD-1150,2023-03-30,2023-03-31,First Class,Home Office,Central,Missouri,Technology,Copiers,Compact Copier,4,0.3,679.1,-103.5
+ORD-1151,2023-03-17,2023-03-21,Standard Class,Home Office,South,Kentucky,Office Supplies,Paper,A4 Copy Paper 500ct,2,0.1,85.21,19.64
+ORD-1152,2023-06-06,2023-06-09,First Class,Consumer,West,Washington,Office Supplies,Paper,Recycled Notebook Pack,5,0,290.73,36.39
+ORD-1153,2024-10-02,2024-10-05,First Class,Home Office,East,Virginia,Technology,Accessories,Laptop Sleeve,5,0,901.82,214.04
+ORD-1154,2023-02-12,2023-02-19,Standard Class,Corporate,East,New York,Furniture,Bookcases,Wall-Mount Shelf,2,0.3,431.39,-1.97
+ORD-1155,2024-10-04,2024-10-09,Same Day,Corporate,Central,Ohio,Office Supplies,Paper,Recycled Notebook Pack,3,0.1,91.26,-1.1
+ORD-1156,2024-05-10,2024-05-14,Same Day,Consumer,West,Oregon,Technology,Accessories,Wireless Mouse,6,0,1602.4,493.91
+ORD-1157,2024-01-15,2024-01-20,First Class,Corporate,East,Pennsylvania,Furniture,Furnishings,Floor Lamp,3,0.1,660.4,-0.63
+ORD-1158,2024-09-22,2024-09-26,Same Day,Corporate,West,Washington,Office Supplies,Appliances,Label Printer,2,0.3,51.13,5.56
+ORD-1159,2023-11-12,2023-11-16,First Class,Corporate,East,New York,Office Supplies,Appliances,Label Printer,2,0,99.75,6.44
+ORD-1160,2024-09-03,2024-09-10,Same Day,Corporate,South,Alabama,Technology,Phones,Wireless Headset,4,0,1159.59,311.06
+ORD-1161,2023-02-16,2023-02-20,First Class,Home Office,East,Virginia,Technology,Accessories,Wireless Mouse,5,0,826.62,166.38
+ORD-1162,2024-11-27,2024-12-02,Second Class,Home Office,East,Florida,Furniture,Furnishings,Area Rug 5x7,3,0.15,969.09,151.65
+ORD-1163,2024-06-05,2024-06-09,Second Class,Corporate,East,New York,Furniture,Tables,Folding Conference Table,3,0.3,606.59,-32.09
+ORD-1164,2024-09-19,2024-09-22,First Class,Corporate,West,Arizona,Technology,Machines,Portable Scanner,5,0.3,813.74,-35.03
+ORD-1165,2023-01-18,2023-01-21,Same Day,Corporate,Central,Texas,Office Supplies,Appliances,Label Printer,6,0.3,223.33,-40.65
+ORD-1166,2024-11-02,2024-11-09,Same Day,Consumer,West,California,Technology,Copiers,Office Copier Pro,5,0.2,1060.25,129.76
+ORD-1167,2024-11-28,2024-11-30,Second Class,Corporate,East,Virginia,Technology,Phones,Wireless Headset,1,0.1,182.08,2.81
+ORD-1168,2024-05-28,2024-06-04,Same Day,Corporate,South,North Carolina,Technology,Accessories,Laptop Sleeve,2,0.15,346.9,44.63
+ORD-1169,2023-06-27,2023-07-01,First Class,Corporate,Central,Colorado,Office Supplies,Art,Sketchbook A3,2,0,80.58,11.24
+ORD-1170,2024-12-22,2024-12-24,Same Day,Corporate,South,Alabama,Office Supplies,Art,Sketchbook A3,3,0,148.69,31.66
+ORD-1171,2023-05-30,2023-06-02,Second Class,Home Office,East,Pennsylvania,Technology,Phones,Smartphone Stand,4,0.2,619.18,20.88
+ORD-1172,2023-10-05,2023-10-10,Second Class,Consumer,Central,Illinois,Furniture,Tables,Oak Coffee Table,1,0.2,298.73,-12.64
+ORD-1173,2023-04-13,2023-04-17,Same Day,Corporate,Central,Missouri,Furniture,Tables,Oak Coffee Table,5,0,1378.77,455.7
+ORD-1174,2024-10-28,2024-10-30,Standard Class,Consumer,Central,Ohio,Office Supplies,Binders,Leather Binder Set,6,0.15,197.96,30.01
+ORD-1175,2024-03-03,2024-03-10,Standard Class,Corporate,West,California,Office Supplies,Storage,File Organizer Box,6,0.3,254.82,18.61
+ORD-1176,2024-08-04,2024-08-09,Standard Class,Corporate,East,Pennsylvania,Office Supplies,Storage,Desk Drawer Unit,2,0.3,66.34,-7.17
+ORD-1177,2023-06-16,2023-06-22,Second Class,Consumer,South,Alabama,Technology,Accessories,USB-C Hub,6,0,1654.67,364.58
+ORD-1178,2024-09-17,2024-09-24,Same Day,Corporate,South,Louisiana,Technology,Machines,Laser Printer,4,0.2,539.81,99.6
+ORD-1179,2023-09-12,2023-09-13,First Class,Home Office,Central,Missouri,Furniture,Furnishings,Area Rug 5x7,3,0,930.49,206.44
+ORD-1180,2024-01-04,2024-01-10,First Class,Home Office,West,California,Technology,Phones,Smartphone Stand,3,0,649.3,130.35
+ORD-1181,2023-05-01,2023-05-07,First Class,Corporate,Central,Ohio,Technology,Accessories,USB-C Hub,2,0.1,319.66,62.12
+ORD-1182,2024-12-19,2024-12-24,Same Day,Home Office,South,Kentucky,Technology,Accessories,USB-C Hub,6,0.3,1032.17,47.7
+ORD-1183,2024-12-21,2024-12-24,First Class,Home Office,East,Virginia,Furniture,Chairs,Mesh Task Chair,5,0,1541.25,146.35
+ORD-1184,2024-03-28,2024-03-29,Standard Class,Home Office,West,Nevada,Office Supplies,Binders,3-Ring Binder Pack,1,0.1,32.09,3.04
+ORD-1185,2024-04-18,2024-04-24,First Class,Home Office,Central,Texas,Office Supplies,Art,Acrylic Paint Set,6,0,298.3,18.97
+ORD-1186,2023-03-07,2023-03-12,Same Day,Corporate,East,New York,Office Supplies,Binders,3-Ring Binder Pack,4,0,222.89,62.35
+ORD-1187,2024-01-27,2024-01-31,Second Class,Home Office,South,Louisiana,Furniture,Tables,Folding Conference Table,3,0,692.94,146.33
+ORD-1188,2023-08-17,2023-08-24,First Class,Consumer,East,New York,Office Supplies,Storage,Desk Drawer Unit,5,0.1,258.46,11.44
+ORD-1189,2023-10-10,2023-10-12,Same Day,Home Office,East,New York,Technology,Copiers,Office Copier Pro,2,0,328.73,75.01
+ORD-1190,2024-11-19,2024-11-25,Standard Class,Consumer,East,Florida,Technology,Phones,Smartphone Stand,4,0,948.49,262.08
+ORD-1191,2024-05-30,2024-06-02,Second Class,Corporate,West,Nevada,Office Supplies,Appliances,Label Printer,2,0,118.2,40.86
+ORD-1192,2023-11-04,2023-11-07,First Class,Home Office,East,Virginia,Technology,Accessories,Laptop Sleeve,6,0.1,1293.85,-20.62
+ORD-1193,2024-11-18,2024-11-22,Second Class,Corporate,Central,Missouri,Office Supplies,Paper,Recycled Notebook Pack,4,0,221.06,42.46
+ORD-1194,2024-12-25,2024-12-27,Second Class,Corporate,South,North Carolina,Technology,Copiers,Compact Copier,5,0.15,742.26,2.12
+ORD-1195,2024-10-24,2024-10-25,Standard Class,Consumer,South,Alabama,Furniture,Tables,Oak Coffee Table,3,0.1,885.71,133.63
+ORD-1196,2024-08-24,2024-08-30,Standard Class,Home Office,West,Arizona,Furniture,Bookcases,Corner Bookshelf,1,0,379.68,128.57
+ORD-1197,2024-05-05,2024-05-07,First Class,Corporate,West,Arizona,Furniture,Bookcases,Corner Bookshelf,4,0.1,1082.14,84.17
+ORD-1198,2024-06-09,2024-06-13,Second Class,Home Office,South,North Carolina,Technology,Copiers,Compact Copier,2,0,404.38,25.76
+ORD-1199,2023-05-30,2023-05-31,Second Class,Corporate,Central,Colorado,Technology,Copiers,Compact Copier,2,0,409.6,67.15
+ORD-1200,2024-07-17,2024-07-23,Same Day,Consumer,Central,Ohio,Office Supplies,Storage,Desk Drawer Unit,2,0.2,90.47,-5.36
+ORD-1201,2024-07-09,2024-07-15,Second Class,Consumer,East,Virginia,Furniture,Chairs,Mesh Task Chair,1,0.3,138.08,-20.54
+ORD-1202,2024-12-25,2024-12-27,Same Day,Home Office,East,Florida,Technology,Copiers,Compact Copier,1,0.15,214.38,45.06
+ORD-1203,2024-05-14,2024-05-15,First Class,Consumer,East,Virginia,Technology,Copiers,Office Copier Pro,1,0.15,225.44,20.45
+ORD-1204,2024-05-29,2024-06-05,First Class,Corporate,South,Tennessee,Furniture,Chairs,Mesh Task Chair,2,0,467.24,97.16
+ORD-1205,2024-02-11,2024-02-12,Standard Class,Home Office,Central,Missouri,Office Supplies,Appliances,Paper Shredder,6,0,245.7,73.32
+ORD-1206,2024-10-27,2024-11-03,Second Class,Consumer,East,New York,Office Supplies,Storage,Desk Drawer Unit,5,0.1,149.7,-4.07
+ORD-1207,2024-05-26,2024-06-02,Same Day,Corporate,South,Alabama,Technology,Phones,Wireless Headset,2,0,585.59,150.9
+ORD-1208,2023-02-17,2023-02-18,Same Day,Consumer,Central,Colorado,Technology,Phones,Wireless Headset,3,0,906.2,204.9
+ORD-1209,2023-11-03,2023-11-05,Standard Class,Home Office,West,Nevada,Office Supplies,Appliances,Label Printer,4,0.3,153.45,7.24
+ORD-1210,2023-12-21,2023-12-22,First Class,Consumer,East,Georgia,Furniture,Chairs,Wooden Dining Chair,5,0.3,1107.11,-12.53
+ORD-1211,2024-10-11,2024-10-14,Same Day,Consumer,South,Louisiana,Furniture,Bookcases,Wall-Mount Shelf,4,0.1,836.66,121.95
+ORD-1212,2024-09-25,2024-09-28,Same Day,Corporate,West,California,Furniture,Bookcases,5-Shelf Bookcase,4,0.2,1118.86,-71.29
+ORD-1213,2024-01-05,2024-01-06,Same Day,Home Office,East,New York,Office Supplies,Storage,Desk Drawer Unit,3,0,107.02,11.37
+ORD-1214,2024-07-22,2024-07-27,Same Day,Consumer,South,North Carolina,Furniture,Chairs,Wooden Dining Chair,5,0,1564.99,446.54
+ORD-1215,2023-10-26,2023-10-30,First Class,Corporate,South,North Carolina,Technology,Accessories,Laptop Sleeve,5,0,1297.69,130.87
+ORD-1216,2023-10-02,2023-10-06,First Class,Consumer,West,California,Furniture,Furnishings,Area Rug 5x7,4,0,1163.64,85.03
+ORD-1217,2024-10-02,2024-10-06,First Class,Corporate,West,Arizona,Furniture,Tables,Standing Desk,1,0.1,235.0,36.67
+ORD-1218,2023-12-09,2023-12-13,First Class,Corporate,West,Oregon,Office Supplies,Appliances,Paper Shredder,4,0,148.38,25.15
+ORD-1219,2024-12-12,2024-12-18,Second Class,Home Office,South,Kentucky,Furniture,Bookcases,Corner Bookshelf,3,0.3,735.06,-59.17
+ORD-1220,2024-07-12,2024-07-14,Same Day,Home Office,East,Georgia,Technology,Accessories,Wireless Mouse,3,0.3,547.46,30.49
+ORD-1221,2024-05-26,2024-05-28,Same Day,Home Office,Central,Illinois,Office Supplies,Paper,Recycled Notebook Pack,4,0,182.58,41.88
+ORD-1222,2024-06-02,2024-06-09,Second Class,Home Office,South,Kentucky,Furniture,Bookcases,Wall-Mount Shelf,5,0.15,1364.6,-60.73
+ORD-1223,2024-11-11,2024-11-14,Second Class,Corporate,West,Nevada,Furniture,Furnishings,Area Rug 5x7,4,0,792.27,101.11
+ORD-1224,2024-01-19,2024-01-23,Standard Class,Consumer,South,Kentucky,Technology,Accessories,Wireless Mouse,1,0.1,153.09,14.51
+ORD-1225,2023-05-26,2023-05-29,Same Day,Corporate,Central,Ohio,Office Supplies,Paper,Recycled Notebook Pack,3,0.1,93.35,17.42
+ORD-1226,2023-03-10,2023-03-13,Second Class,Home Office,East,New York,Furniture,Bookcases,Wall-Mount Shelf,1,0.2,282.25,47.69
+ORD-1227,2023-06-28,2023-07-03,Same Day,Corporate,West,Oregon,Technology,Copiers,Compact Copier,2,0.3,302.93,-40.79
+ORD-1228,2023-01-30,2023-02-05,Standard Class,Home Office,West,Arizona,Technology,Copiers,Compact Copier,1,0.2,149.66,-3.97
+ORD-1229,2023-04-15,2023-04-22,First Class,Home Office,West,Oregon,Office Supplies,Paper,Recycled Notebook Pack,1,0,52.63,10.36
+ORD-1230,2024-02-02,2024-02-07,First Class,Home Office,South,Kentucky,Furniture,Bookcases,Corner Bookshelf,4,0.15,781.37,103.2
+ORD-1231,2024-08-27,2024-08-28,Same Day,Corporate,West,Oregon,Furniture,Tables,Standing Desk,1,0,269.17,24.87
+ORD-1232,2024-09-02,2024-09-04,Second Class,Home Office,South,Louisiana,Furniture,Furnishings,Wall Clock,5,0.2,1504.62,254.59
+ORD-1233,2023-06-20,2023-06-24,Same Day,Consumer,Central,Illinois,Furniture,Bookcases,Corner Bookshelf,5,0,1828.21,613.46
+ORD-1234,2023-07-19,2023-07-26,Same Day,Consumer,South,Kentucky,Technology,Copiers,Compact Copier,6,0.1,1177.24,261.31
+ORD-1235,2023-03-26,2023-03-31,Same Day,Home Office,East,Florida,Office Supplies,Binders,3-Ring Binder Pack,2,0.15,69.01,11.33
+ORD-1236,2024-06-07,2024-06-08,Standard Class,Home Office,East,Pennsylvania,Technology,Machines,Laser Printer,6,0.1,1285.95,343.26
+ORD-1237,2024-10-31,2024-11-07,Standard Class,Consumer,West,Oregon,Furniture,Furnishings,Area Rug 5x7,3,0.3,747.77,-43.58
+ORD-1238,2023-08-03,2023-08-10,Standard Class,Home Office,Central,Colorado,Technology,Copiers,Office Copier Pro,5,0,1374.33,404.13
+ORD-1239,2023-12-26,2023-12-31,Standard Class,Consumer,Central,Colorado,Technology,Accessories,Wireless Mouse,6,0,1191.34,155.12
+ORD-1240,2024-02-26,2024-02-27,Same Day,Corporate,Central,Illinois,Technology,Accessories,USB-C Hub,2,0.2,325.76,-11.64
+ORD-1241,2023-05-26,2023-05-31,First Class,Home Office,Central,Missouri,Office Supplies,Storage,File Organizer Box,6,0.3,248.74,-40.31
+ORD-1242,2024-01-13,2024-01-17,Standard Class,Home Office,South,Alabama,Technology,Phones,Wireless Headset,6,0.1,1359.53,243.61
+ORD-1243,2024-02-12,2024-02-14,Same Day,Corporate,South,Tennessee,Office Supplies,Art,Sketchbook A3,3,0,146.22,13.04
+ORD-1244,2024-11-29,2024-12-06,Same Day,Consumer,East,New York,Furniture,Furnishings,Floor Lamp,1,0.3,158.88,-8.43
+ORD-1245,2024-12-06,2024-12-08,Second Class,Consumer,Central,Illinois,Office Supplies,Binders,3-Ring Binder Pack,3,0,129.64,41.63
+ORD-1246,2024-02-10,2024-02-16,Second Class,Home Office,Central,Illinois,Office Supplies,Binders,Leather Binder Set,1,0,46.52,4.18
+ORD-1247,2024-11-27,2024-12-01,Same Day,Consumer,East,New York,Technology,Machines,Laser Printer,4,0.2,557.94,-49.52
+ORD-1248,2023-04-15,2023-04-16,Standard Class,Home Office,Central,Ohio,Office Supplies,Paper,Recycled Notebook Pack,2,0.2,100.44,-6.74
+ORD-1249,2024-10-27,2024-10-29,Same Day,Consumer,South,Alabama,Technology,Accessories,Laptop Sleeve,6,0,1773.98,416.57
+ORD-1250,2023-03-30,2023-03-31,Standard Class,Consumer,West,California,Technology,Copiers,Compact Copier,4,0,1103.3,137.18
+ORD-1251,2024-07-20,2024-07-25,First Class,Home Office,Central,Texas,Technology,Machines,Laser Printer,5,0.15,987.98,152.5
+ORD-1252,2023-02-25,2023-03-04,Standard Class,Corporate,West,Arizona,Office Supplies,Binders,Leather Binder Set,4,0.2,160.67,7.79
+ORD-1253,2023-11-21,2023-11-23,Standard Class,Corporate,South,Kentucky,Office Supplies,Art,Acrylic Paint Set,4,0.3,94.64,-1.31
+ORD-1254,2023-08-09,2023-08-10,Second Class,Corporate,East,Georgia,Technology,Machines,Portable Scanner,4,0.2,691.04,56.78
+ORD-1255,2023-03-27,2023-03-30,Standard Class,Corporate,East,Virginia,Furniture,Tables,Folding Conference Table,3,0.1,839.54,167.04
+ORD-1256,2024-12-16,2024-12-20,Second Class,Consumer,West,California,Furniture,Chairs,Wooden Dining Chair,1,0.1,284.41,-3.84
+ORD-1257,2023-01-13,2023-01-19,Second Class,Corporate,West,California,Furniture,Furnishings,Area Rug 5x7,5,0.15,1485.23,217.18
+ORD-1258,2023-05-10,2023-05-16,Standard Class,Corporate,Central,Texas,Furniture,Bookcases,Corner Bookshelf,3,0.15,531.72,76.41
+ORD-1259,2024-04-11,2024-04-16,Standard Class,Consumer,Central,Texas,Office Supplies,Appliances,Paper Shredder,3,0,118.61,9.59
+ORD-1260,2024-06-05,2024-06-06,Standard Class,Home Office,East,New York,Furniture,Chairs,Wooden Dining Chair,3,0.1,1016.18,24.07
+ORD-1261,2024-11-02,2024-11-06,Standard Class,Home Office,West,Oregon,Furniture,Furnishings,Wall Clock,3,0,1073.69,237.78
+ORD-1262,2024-11-20,2024-11-21,First Class,Corporate,West,Washington,Technology,Phones,Smartphone Stand,1,0.1,258.63,52.26
+ORD-1263,2023-03-30,2023-04-04,Same Day,Corporate,South,North Carolina,Office Supplies,Paper,Recycled Notebook Pack,5,0.3,143.76,-0.46
+ORD-1264,2024-08-28,2024-09-01,Standard Class,Corporate,West,Nevada,Furniture,Tables,Oak Coffee Table,4,0,966.67,148.8
+ORD-1265,2023-01-02,2023-01-09,Second Class,Home Office,South,Alabama,Furniture,Tables,Folding Conference Table,2,0.1,526.39,-6.33
+ORD-1266,2023-10-14,2023-10-15,Second Class,Home Office,East,Florida,Technology,Copiers,Compact Copier,4,0.2,534.64,-43.48
+ORD-1267,2024-02-08,2024-02-09,Same Day,Home Office,East,Georgia,Technology,Accessories,USB-C Hub,3,0,855.12,280.32
+ORD-1268,2023-12-01,2023-12-04,Standard Class,Consumer,South,Alabama,Furniture,Chairs,Ergonomic Office Chair,2,0.3,485.73,-76.41
+ORD-1269,2024-04-05,2024-04-09,Standard Class,Consumer,Central,Missouri,Furniture,Bookcases,5-Shelf Bookcase,4,0,1147.26,350.77
+ORD-1270,2024-12-03,2024-12-06,Standard Class,Home Office,East,Florida,Office Supplies,Paper,A4 Copy Paper 500ct,6,0,372.03,62.83
+ORD-1271,2023-11-03,2023-11-06,Standard Class,Consumer,West,California,Office Supplies,Storage,File Organizer Box,1,0.1,31.24,6.5
+ORD-1272,2023-03-05,2023-03-12,First Class,Consumer,West,Washington,Furniture,Furnishings,Area Rug 5x7,6,0.2,1822.87,-154.56
+ORD-1273,2023-01-23,2023-01-24,Same Day,Home Office,West,Arizona,Furniture,Chairs,Wooden Dining Chair,1,0,380.69,24.82
+ORD-1274,2024-02-09,2024-02-13,Same Day,Consumer,East,Georgia,Technology,Copiers,Office Copier Pro,3,0,881.64,116.81
+ORD-1275,2023-02-05,2023-02-10,Second Class,Home Office,West,Oregon,Office Supplies,Storage,Desk Drawer Unit,1,0,40.31,3.68
+ORD-1276,2024-06-22,2024-06-24,First Class,Corporate,East,Georgia,Technology,Machines,Portable Scanner,5,0.3,800.24,67.06
+ORD-1277,2023-10-04,2023-10-06,First Class,Home Office,East,Pennsylvania,Technology,Accessories,USB-C Hub,3,0,835.6,160.02
+ORD-1278,2023-08-27,2023-08-29,Second Class,Home Office,East,Florida,Technology,Accessories,Wireless Mouse,5,0.3,965.48,30.04
+ORD-1279,2024-02-02,2024-02-05,First Class,Home Office,West,Washington,Furniture,Bookcases,Wall-Mount Shelf,6,0,2250.84,131.59
+ORD-1280,2024-07-31,2024-08-02,Second Class,Consumer,West,Arizona,Technology,Machines,Laser Printer,4,0,671.6,80.45
+ORD-1281,2024-06-23,2024-06-27,First Class,Consumer,East,Pennsylvania,Technology,Accessories,USB-C Hub,3,0.2,435.19,56.89
+ORD-1282,2023-01-23,2023-01-25,Standard Class,Corporate,West,California,Technology,Machines,Laser Printer,3,0.2,717.73,6.23
+ORD-1283,2023-11-06,2023-11-09,First Class,Consumer,West,Washington,Technology,Copiers,Compact Copier,6,0,1084.96,369.56
+ORD-1284,2024-11-12,2024-11-17,Same Day,Home Office,West,Arizona,Office Supplies,Art,Acrylic Paint Set,2,0.2,50.49,5.08
+ORD-1285,2023-02-03,2023-02-05,First Class,Consumer,Central,Colorado,Furniture,Chairs,Wooden Dining Chair,2,0,684.17,83.06
+ORD-1286,2024-10-13,2024-10-14,Standard Class,Home Office,Central,Missouri,Furniture,Bookcases,5-Shelf Bookcase,2,0.2,334.86,-11.05
+ORD-1287,2023-01-02,2023-01-03,Same Day,Consumer,South,Louisiana,Technology,Copiers,Office Copier Pro,4,0.1,1043.25,78.63
+ORD-1288,2024-05-05,2024-05-12,Standard Class,Corporate,West,Washington,Office Supplies,Binders,Leather Binder Set,3,0,124.62,41.81
+ORD-1289,2023-06-24,2023-06-28,Same Day,Home Office,West,California,Technology,Phones,Smartphone Stand,5,0.15,1239.12,175.15
+ORD-1290,2023-06-18,2023-06-23,First Class,Home Office,South,Tennessee,Furniture,Chairs,Wooden Dining Chair,2,0,552.44,119.46
+ORD-1291,2023-10-16,2023-10-19,Standard Class,Corporate,West,California,Furniture,Furnishings,Wall Clock,5,0.3,1022.79,-177.61
+ORD-1292,2023-03-31,2023-04-03,Standard Class,Corporate,South,Tennessee,Furniture,Chairs,Ergonomic Office Chair,2,0.2,405.11,-34.6
+ORD-1293,2024-02-12,2024-02-16,First Class,Corporate,South,Alabama,Furniture,Furnishings,Floor Lamp,3,0.1,724.69,75.17
+ORD-1294,2024-04-21,2024-04-24,Same Day,Home Office,West,Oregon,Technology,Phones,Wireless Headset,6,0.2,810.68,73.32
+ORD-1295,2023-08-21,2023-08-26,Standard Class,Home Office,East,Georgia,Technology,Copiers,Compact Copier,5,0,1136.72,83.76
+ORD-1296,2024-08-07,2024-08-12,Standard Class,Home Office,West,California,Office Supplies,Paper,A4 Copy Paper 500ct,2,0.3,52.6,-9.32
+ORD-1297,2024-03-21,2024-03-23,First Class,Home Office,West,Nevada,Office Supplies,Art,Acrylic Paint Set,1,0.1,44.12,5.98
+ORD-1298,2024-04-14,2024-04-21,Standard Class,Consumer,East,Virginia,Technology,Copiers,Office Copier Pro,4,0,707.29,160.12
+ORD-1299,2024-07-30,2024-08-06,Same Day,Consumer,East,Pennsylvania,Technology,Machines,Portable Scanner,3,0.1,688.06,97.43
+ORD-1300,2023-06-26,2023-06-29,Same Day,Corporate,South,Tennessee,Technology,Copiers,Office Copier Pro,4,0,1041.36,67.47
+ORD-1301,2024-01-17,2024-01-18,Second Class,Corporate,Central,Ohio,Office Supplies,Art,Sketchbook A3,6,0.2,166.05,25.02
+ORD-1302,2024-03-29,2024-04-05,Same Day,Home Office,Central,Ohio,Technology,Copiers,Office Copier Pro,2,0.1,335.8,72.93
+ORD-1303,2024-01-18,2024-01-25,Standard Class,Consumer,East,Virginia,Furniture,Chairs,Wooden Dining Chair,6,0.15,1402.82,230.28
+ORD-1304,2023-07-17,2023-07-24,Same Day,Home Office,West,California,Furniture,Chairs,Wooden Dining Chair,1,0,334.11,44.17
+ORD-1305,2024-02-11,2024-02-17,First Class,Corporate,East,New York,Furniture,Bookcases,Corner Bookshelf,5,0.1,1038.63,240.07
+ORD-1306,2023-06-17,2023-06-24,Second Class,Consumer,Central,Texas,Office Supplies,Binders,3-Ring Binder Pack,1,0,58.4,16.58
+ORD-1307,2024-10-24,2024-10-26,Second Class,Home Office,West,Oregon,Technology,Copiers,Office Copier Pro,6,0,1362.07,122.17
+ORD-1308,2023-01-09,2023-01-11,Same Day,Corporate,Central,Colorado,Office Supplies,Art,Sketchbook A3,4,0.3,118.96,-13.61
+ORD-1309,2024-11-24,2024-11-29,First Class,Corporate,South,Kentucky,Furniture,Chairs,Mesh Task Chair,6,0.3,1514.18,-32.65
+ORD-1310,2024-12-01,2024-12-02,First Class,Consumer,South,North Carolina,Office Supplies,Art,Sketchbook A3,3,0,156.5,52.53
+ORD-1311,2023-06-03,2023-06-08,First Class,Corporate,West,California,Technology,Copiers,Compact Copier,6,0,1590.47,392.24
+ORD-1312,2024-03-04,2024-03-08,Same Day,Home Office,South,North Carolina,Technology,Accessories,Wireless Mouse,6,0.2,903.57,45.53
+ORD-1313,2024-01-03,2024-01-08,Second Class,Home Office,Central,Illinois,Technology,Accessories,Wireless Mouse,1,0.1,156.33,7.44
+ORD-1314,2023-12-10,2023-12-16,First Class,Corporate,East,Florida,Office Supplies,Paper,Recycled Notebook Pack,4,0.3,166.42,-13.06
+ORD-1315,2023-05-01,2023-05-05,First Class,Corporate,East,Virginia,Technology,Phones,Smartphone Stand,2,0.15,293.17,39.35
+ORD-1316,2023-02-25,2023-03-04,Second Class,Consumer,West,Washington,Furniture,Bookcases,Corner Bookshelf,5,0.1,1008.32,230.62
+ORD-1317,2024-05-14,2024-05-17,Second Class,Corporate,West,Oregon,Technology,Phones,Wireless Headset,4,0,744.98,210.13
+ORD-1318,2023-04-01,2023-04-03,First Class,Consumer,South,Louisiana,Office Supplies,Storage,Desk Drawer Unit,4,0,130.75,14.36
+ORD-1319,2023-11-26,2023-12-03,Standard Class,Corporate,West,California,Technology,Phones,Wireless Headset,2,0.2,462.49,-7.57
+ORD-1320,2024-05-30,2024-06-04,First Class,Corporate,Central,Illinois,Furniture,Chairs,Wooden Dining Chair,3,0.1,914.37,136.16
+ORD-1321,2024-12-04,2024-12-06,Second Class,Consumer,Central,Missouri,Office Supplies,Paper,A4 Copy Paper 500ct,4,0,154.78,41.5
+ORD-1322,2023-01-23,2023-01-28,Standard Class,Home Office,West,California,Office Supplies,Binders,3-Ring Binder Pack,6,0,334.77,79.32
+ORD-1323,2023-04-21,2023-04-27,Second Class,Consumer,East,New York,Technology,Phones,Smartphone Stand,4,0.1,622.92,28.54
+ORD-1324,2024-12-12,2024-12-18,Standard Class,Home Office,East,Pennsylvania,Office Supplies,Binders,3-Ring Binder Pack,5,0.15,227.68,12.67
+ORD-1325,2024-09-24,2024-09-25,Second Class,Corporate,Central,Texas,Furniture,Furnishings,Floor Lamp,5,0,1742.4,521.76
+ORD-1326,2024-12-21,2024-12-25,Standard Class,Consumer,Central,Illinois,Furniture,Furnishings,Floor Lamp,6,0.1,1408.31,-41.09
+ORD-1327,2024-08-10,2024-08-16,Same Day,Corporate,South,Tennessee,Furniture,Chairs,Mesh Task Chair,6,0,2240.02,545.0
+ORD-1328,2023-09-28,2023-10-02,Standard Class,Consumer,East,New York,Furniture,Chairs,Wooden Dining Chair,3,0.3,690.16,-42.93
+ORD-1329,2023-02-16,2023-02-17,First Class,Consumer,West,Washington,Office Supplies,Art,Sketchbook A3,5,0,295.86,23.04
+ORD-1330,2023-04-27,2023-05-01,Second Class,Home Office,South,Louisiana,Office Supplies,Storage,Desk Drawer Unit,4,0.2,190.12,-11.4
+ORD-1331,2023-03-02,2023-03-09,First Class,Home Office,West,California,Office Supplies,Appliances,Label Printer,5,0.2,181.21,13.3
+ORD-1332,2023-01-30,2023-02-06,Standard Class,Home Office,West,Arizona,Office Supplies,Binders,3-Ring Binder Pack,4,0,133.98,33.03
+ORD-1333,2024-11-25,2024-11-30,Same Day,Consumer,West,Oregon,Technology,Phones,Smartphone Stand,6,0.2,922.95,-5.79
+ORD-1334,2024-07-25,2024-07-30,Same Day,Corporate,East,New York,Technology,Accessories,Laptop Sleeve,4,0.3,645.0,-90.54
+ORD-1335,2023-09-04,2023-09-07,Same Day,Corporate,Central,Texas,Technology,Accessories,Laptop Sleeve,6,0.1,1166.97,47.26
+ORD-1336,2024-08-09,2024-08-13,Same Day,Consumer,East,Georgia,Office Supplies,Art,Acrylic Paint Set,4,0.2,166.66,-13.2
+ORD-1337,2024-07-24,2024-07-29,Standard Class,Consumer,East,New York,Technology,Machines,Laser Printer,6,0.2,1076.43,-8.34
+ORD-1338,2024-04-10,2024-04-13,First Class,Home Office,South,Alabama,Technology,Copiers,Office Copier Pro,1,0.3,178.83,-33.86
+ORD-1339,2023-10-26,2023-10-31,Standard Class,Corporate,Central,Texas,Furniture,Tables,Standing Desk,2,0.3,471.11,12.47
+ORD-1340,2024-09-17,2024-09-19,Standard Class,Home Office,West,California,Office Supplies,Paper,Recycled Notebook Pack,2,0.2,67.43,7.9
+ORD-1341,2024-11-19,2024-11-24,Same Day,Home Office,East,Georgia,Office Supplies,Appliances,Paper Shredder,4,0,192.83,12.45
+ORD-1342,2024-05-09,2024-05-14,Same Day,Corporate,West,Nevada,Furniture,Tables,Oak Coffee Table,4,0.2,1003.86,155.41
+ORD-1343,2024-09-15,2024-09-21,First Class,Home Office,West,Oregon,Office Supplies,Art,Sketchbook A3,4,0.3,99.96,-6.61
+ORD-1344,2024-07-14,2024-07-21,Second Class,Home Office,Central,Colorado,Technology,Accessories,USB-C Hub,2,0.15,448.83,61.03
+ORD-1345,2024-10-27,2024-10-29,First Class,Corporate,Central,Texas,Office Supplies,Appliances,Label Printer,5,0.15,260.08,37.2
+ORD-1346,2023-01-14,2023-01-19,Second Class,Corporate,East,New York,Office Supplies,Paper,A4 Copy Paper 500ct,6,0,226.78,62.38
+ORD-1347,2024-11-30,2024-12-03,Second Class,Home Office,West,California,Technology,Machines,Laser Printer,5,0,1046.19,194.36
+ORD-1348,2024-10-24,2024-10-29,First Class,Home Office,South,Tennessee,Technology,Machines,Laser Printer,4,0.1,785.34,162.12
+ORD-1349,2023-02-25,2023-02-26,Second Class,Home Office,Central,Illinois,Technology,Copiers,Office Copier Pro,6,0.2,1263.7,0.41
+ORD-1350,2023-07-18,2023-07-21,Same Day,Corporate,South,Tennessee,Technology,Phones,Wireless Headset,2,0.2,373.01,1.18
+ORD-1351,2024-07-23,2024-07-26,Second Class,Corporate,West,Washington,Technology,Machines,Laser Printer,3,0.1,710.89,11.69
+ORD-1352,2024-09-03,2024-09-04,Standard Class,Home Office,Central,Missouri,Technology,Machines,Laser Printer,6,0,1409.47,475.13
+ORD-1353,2023-06-13,2023-06-17,Same Day,Home Office,South,North Carolina,Office Supplies,Paper,A4 Copy Paper 500ct,6,0,251.57,34.73
+ORD-1354,2024-10-26,2024-10-27,Standard Class,Corporate,East,Pennsylvania,Office Supplies,Paper,A4 Copy Paper 500ct,1,0.2,47.52,0.21
+ORD-1355,2023-09-20,2023-09-25,First Class,Home Office,Central,Texas,Technology,Machines,Portable Scanner,4,0,798.6,196.02
+ORD-1356,2023-03-26,2023-03-27,Same Day,Consumer,West,Nevada,Technology,Phones,Wireless Headset,2,0.2,401.51,-18.49
+ORD-1357,2023-07-30,2023-08-04,Standard Class,Consumer,South,North Carolina,Technology,Accessories,USB-C Hub,4,0.2,656.27,-54.96
+ORD-1358,2023-09-15,2023-09-20,Standard Class,Corporate,East,Virginia,Furniture,Bookcases,Corner Bookshelf,4,0.1,1150.28,114.92
+ORD-1359,2024-11-20,2024-11-21,First Class,Home Office,East,Virginia,Furniture,Chairs,Mesh Task Chair,1,0,377.9,30.93
+ORD-1360,2023-03-30,2023-04-02,First Class,Home Office,South,Louisiana,Office Supplies,Binders,3-Ring Binder Pack,2,0.15,65.32,10.06
+ORD-1361,2023-05-28,2023-05-31,Standard Class,Corporate,Central,Texas,Technology,Accessories,USB-C Hub,1,0,242.2,40.74
+ORD-1362,2023-08-04,2023-08-10,Second Class,Consumer,Central,Illinois,Office Supplies,Appliances,Paper Shredder,2,0,76.91,23.11
+ORD-1363,2023-07-05,2023-07-11,Same Day,Corporate,East,Virginia,Office Supplies,Appliances,Paper Shredder,3,0.2,80.69,-6.5
+ORD-1364,2024-01-01,2024-01-03,First Class,Home Office,West,California,Office Supplies,Appliances,Paper Shredder,2,0,93.61,13.9
+ORD-1365,2024-08-21,2024-08-23,Same Day,Corporate,Central,Ohio,Office Supplies,Paper,A4 Copy Paper 500ct,3,0,168.74,44.49
+ORD-1366,2024-01-04,2024-01-06,Standard Class,Corporate,Central,Missouri,Office Supplies,Storage,Desk Drawer Unit,3,0.1,131.97,3.0
+ORD-1367,2023-05-24,2023-05-29,Same Day,Home Office,West,Oregon,Technology,Phones,Wireless Headset,1,0.3,162.47,-29.35
+ORD-1368,2023-08-06,2023-08-07,First Class,Consumer,Central,Colorado,Technology,Copiers,Office Copier Pro,3,0.1,508.65,102.57
+ORD-1369,2024-04-20,2024-04-25,Second Class,Home Office,East,Georgia,Office Supplies,Appliances,Paper Shredder,6,0,349.27,101.97
+ORD-1370,2023-05-24,2023-05-28,Same Day,Consumer,West,Washington,Technology,Accessories,Laptop Sleeve,6,0.1,1612.62,-28.82
+ORD-1371,2023-03-06,2023-03-09,Standard Class,Consumer,Central,Illinois,Furniture,Tables,Folding Conference Table,3,0.1,777.75,82.75
+ORD-1372,2024-10-26,2024-10-29,Same Day,Corporate,East,Virginia,Technology,Machines,Portable Scanner,5,0.15,1027.67,44.19
+ORD-1373,2024-08-24,2024-08-30,Same Day,Corporate,East,Virginia,Office Supplies,Storage,File Organizer Box,5,0.1,191.77,44.17
+ORD-1374,2024-09-10,2024-09-11,Second Class,Corporate,West,Arizona,Furniture,Tables,Oak Coffee Table,5,0.2,1004.15,-65.2
+ORD-1375,2024-09-08,2024-09-14,Second Class,Home Office,East,Florida,Office Supplies,Art,Acrylic Paint Set,4,0.2,149.06,-6.97
+ORD-1376,2024-02-25,2024-02-26,Standard Class,Consumer,West,California,Furniture,Tables,Oak Coffee Table,6,0.15,1038.78,105.62
+ORD-1377,2023-09-22,2023-09-24,Same Day,Consumer,South,Kentucky,Technology,Phones,Smartphone Stand,1,0,223.18,77.63
+ORD-1378,2023-08-13,2023-08-20,First Class,Corporate,South,Kentucky,Furniture,Tables,Folding Conference Table,6,0.15,1264.01,186.13
+ORD-1379,2024-09-02,2024-09-07,Same Day,Consumer,East,Florida,Office Supplies,Storage,File Organizer Box,1,0,37.87,11.66
+ORD-1380,2024-09-12,2024-09-13,Standard Class,Home Office,West,Arizona,Technology,Phones,Wireless Headset,1,0.1,229.99,55.33
+ORD-1381,2024-10-26,2024-10-30,Standard Class,Corporate,South,Alabama,Furniture,Furnishings,Floor Lamp,4,0.3,970.65,-82.35
+ORD-1382,2023-05-18,2023-05-21,Standard Class,Home Office,South,Tennessee,Furniture,Bookcases,Wall-Mount Shelf,5,0.1,1109.38,-31.46
+ORD-1383,2024-06-19,2024-06-20,First Class,Corporate,East,Georgia,Technology,Accessories,Laptop Sleeve,3,0.1,566.43,9.31
+ORD-1384,2024-07-02,2024-07-06,First Class,Home Office,Central,Colorado,Office Supplies,Storage,File Organizer Box,4,0.15,191.04,14.28
+ORD-1385,2024-07-22,2024-07-26,Second Class,Corporate,Central,Ohio,Technology,Machines,Portable Scanner,6,0,1714.02,424.71
+ORD-1386,2024-12-17,2024-12-19,Second Class,Corporate,East,Florida,Technology,Copiers,Compact Copier,5,0.15,1110.72,157.76
+ORD-1387,2024-10-13,2024-10-14,Standard Class,Home Office,East,Florida,Office Supplies,Appliances,Label Printer,1,0,39.79,6.42
+ORD-1388,2024-01-29,2024-02-02,First Class,Consumer,Central,Colorado,Furniture,Tables,Folding Conference Table,4,0.1,713.16,160.58
+ORD-1389,2023-02-04,2023-02-11,First Class,Corporate,West,Nevada,Furniture,Chairs,Wooden Dining Chair,2,0.2,313.69,-19.69
+ORD-1390,2023-12-28,2024-01-03,First Class,Home Office,South,Louisiana,Technology,Accessories,Laptop Sleeve,1,0.2,209.89,34.79
+ORD-1391,2024-07-26,2024-07-31,Same Day,Home Office,Central,Ohio,Office Supplies,Paper,A4 Copy Paper 500ct,4,0.1,178.59,8.63
+ORD-1392,2023-04-20,2023-04-25,First Class,Home Office,East,Virginia,Office Supplies,Art,Acrylic Paint Set,5,0,295.49,86.86
+ORD-1393,2024-03-29,2024-04-02,Standard Class,Corporate,South,Tennessee,Office Supplies,Storage,Desk Drawer Unit,5,0.3,113.27,-17.57
+ORD-1394,2024-10-10,2024-10-17,Second Class,Corporate,West,Washington,Office Supplies,Storage,Desk Drawer Unit,5,0.15,135.18,24.29
+ORD-1395,2023-04-06,2023-04-10,Second Class,Home Office,Central,Texas,Technology,Accessories,Wireless Mouse,3,0,562.98,125.05
+ORD-1396,2024-11-30,2024-12-02,First Class,Consumer,South,Tennessee,Furniture,Tables,Standing Desk,2,0,471.48,58.89
+ORD-1397,2023-04-20,2023-04-21,First Class,Corporate,East,Georgia,Technology,Phones,Wireless Headset,4,0,998.33,197.37
+ORD-1398,2023-07-07,2023-07-14,Standard Class,Home Office,Central,Missouri,Furniture,Tables,Oak Coffee Table,5,0.3,976.3,89.72
+ORD-1399,2023-12-22,2023-12-26,Standard Class,Corporate,West,Arizona,Furniture,Furnishings,Area Rug 5x7,6,0,1189.9,134.73
+ORD-1400,2024-01-06,2024-01-11,Second Class,Corporate,Central,Illinois,Technology,Machines,Laser Printer,3,0.1,814.36,59.39
+ORD-1401,2024-03-10,2024-03-12,Second Class,Consumer,South,Alabama,Office Supplies,Storage,Desk Drawer Unit,4,0,198.0,68.07
+ORD-1402,2023-10-04,2023-10-11,Standard Class,Consumer,West,Nevada,Office Supplies,Storage,File Organizer Box,2,0.3,86.4,-12.54
+ORD-1403,2024-03-07,2024-03-11,Same Day,Consumer,West,Nevada,Technology,Machines,Portable Scanner,3,0,721.71,159.03
+ORD-1404,2024-12-08,2024-12-10,First Class,Corporate,East,Florida,Office Supplies,Storage,File Organizer Box,4,0.2,134.53,-0.23
+ORD-1405,2023-01-21,2023-01-25,First Class,Corporate,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,5,0.2,1015.86,-58.55
+ORD-1406,2023-11-29,2023-12-05,Second Class,Home Office,South,Louisiana,Furniture,Furnishings,Wall Clock,3,0.1,863.5,11.62
+ORD-1407,2023-12-12,2023-12-16,First Class,Home Office,South,North Carolina,Furniture,Tables,Standing Desk,2,0,516.22,70.93
+ORD-1408,2024-10-22,2024-10-26,Second Class,Home Office,Central,Missouri,Office Supplies,Appliances,Label Printer,4,0,149.17,8.49
+ORD-1409,2023-09-15,2023-09-21,Standard Class,Consumer,East,Florida,Furniture,Furnishings,Floor Lamp,1,0,379.61,72.87
+ORD-1410,2024-02-11,2024-02-16,Second Class,Consumer,East,New York,Office Supplies,Appliances,Paper Shredder,1,0.2,48.68,0.34
+ORD-1411,2023-10-18,2023-10-22,Same Day,Corporate,West,Washington,Technology,Accessories,USB-C Hub,1,0.2,167.16,27.51
+ORD-1412,2024-07-07,2024-07-10,Same Day,Home Office,South,Tennessee,Technology,Accessories,Laptop Sleeve,5,0.1,1130.32,181.7
+ORD-1413,2024-10-17,2024-10-23,Second Class,Corporate,Central,Ohio,Office Supplies,Appliances,Paper Shredder,1,0.1,37.08,3.47
+ORD-1414,2023-01-11,2023-01-12,Standard Class,Corporate,West,Oregon,Office Supplies,Storage,File Organizer Box,6,0.1,331.18,37.46
+ORD-1415,2023-10-27,2023-11-01,Same Day,Corporate,West,California,Technology,Machines,Laser Printer,4,0.15,752.47,3.74
+ORD-1416,2023-08-14,2023-08-17,First Class,Corporate,East,Georgia,Technology,Accessories,Laptop Sleeve,5,0.3,913.03,-99.01
+ORD-1417,2023-07-12,2023-07-19,Same Day,Consumer,East,Florida,Furniture,Bookcases,5-Shelf Bookcase,6,0.1,1712.2,88.42
+ORD-1418,2023-11-25,2023-11-26,Standard Class,Consumer,West,California,Technology,Phones,Wireless Headset,1,0,195.46,51.71
+ORD-1419,2023-04-03,2023-04-05,Same Day,Home Office,East,Georgia,Furniture,Bookcases,Corner Bookshelf,3,0.3,740.66,81.02
+ORD-1420,2023-02-02,2023-02-05,First Class,Corporate,East,Florida,Furniture,Bookcases,Corner Bookshelf,1,0.15,244.93,-3.02
+ORD-1421,2023-01-13,2023-01-14,Second Class,Corporate,West,Arizona,Office Supplies,Paper,A4 Copy Paper 500ct,2,0.1,98.39,-0.18
+ORD-1422,2024-02-03,2024-02-09,First Class,Consumer,Central,Ohio,Furniture,Chairs,Mesh Task Chair,5,0.15,934.74,69.52
+ORD-1423,2024-01-05,2024-01-06,Same Day,Consumer,West,California,Furniture,Furnishings,Area Rug 5x7,1,0,351.7,79.28
+ORD-1424,2023-01-10,2023-01-11,First Class,Home Office,South,Kentucky,Furniture,Bookcases,5-Shelf Bookcase,2,0,587.97,150.39
+ORD-1425,2023-03-03,2023-03-04,First Class,Corporate,Central,Illinois,Technology,Phones,Wireless Headset,4,0,811.11,176.42
+ORD-1426,2023-07-17,2023-07-18,Same Day,Consumer,South,Alabama,Technology,Accessories,Wireless Mouse,1,0.1,236.54,32.57
+ORD-1427,2024-08-03,2024-08-05,Second Class,Corporate,Central,Ohio,Technology,Copiers,Compact Copier,5,0.3,837.89,-141.89
+ORD-1428,2023-10-30,2023-11-06,Standard Class,Home Office,Central,Colorado,Office Supplies,Storage,File Organizer Box,6,0.15,221.54,-3.18
+ORD-1429,2024-01-08,2024-01-15,Second Class,Home Office,West,Oregon,Technology,Phones,Smartphone Stand,2,0.15,440.67,70.38
+ORD-1430,2023-10-17,2023-10-20,Second Class,Consumer,South,Alabama,Furniture,Chairs,Mesh Task Chair,6,0,1227.48,406.71
+ORD-1431,2023-07-26,2023-07-27,First Class,Consumer,South,Tennessee,Furniture,Chairs,Mesh Task Chair,6,0.3,1143.09,-49.18
+ORD-1432,2024-01-11,2024-01-13,Same Day,Corporate,East,New York,Furniture,Furnishings,Floor Lamp,4,0.3,899.44,-73.5
+ORD-1433,2024-12-26,2024-12-27,Second Class,Home Office,Central,Colorado,Furniture,Chairs,Wooden Dining Chair,1,0,384.28,30.41
+ORD-1434,2024-01-30,2024-02-01,Standard Class,Home Office,West,Nevada,Technology,Accessories,Laptop Sleeve,6,0,1439.98,313.11
+ORD-1435,2024-08-13,2024-08-16,Same Day,Corporate,South,Louisiana,Furniture,Tables,Oak Coffee Table,5,0.1,1327.14,221.98
+ORD-1436,2023-11-19,2023-11-24,First Class,Corporate,Central,Ohio,Office Supplies,Storage,Desk Drawer Unit,5,0,246.2,28.11
+ORD-1437,2024-04-08,2024-04-12,First Class,Consumer,South,North Carolina,Technology,Phones,Smartphone Stand,5,0,1168.56,406.69
+ORD-1438,2023-11-04,2023-11-06,Standard Class,Consumer,West,Oregon,Furniture,Bookcases,Wall-Mount Shelf,5,0.15,1308.37,132.78
+ORD-1439,2024-04-16,2024-04-19,Same Day,Home Office,West,Washington,Office Supplies,Art,Acrylic Paint Set,2,0,114.1,8.85
+ORD-1440,2023-08-11,2023-08-17,First Class,Consumer,East,Pennsylvania,Office Supplies,Paper,Recycled Notebook Pack,6,0.2,238.33,38.68
+ORD-1441,2024-08-13,2024-08-17,Standard Class,Home Office,East,New York,Office Supplies,Art,Sketchbook A3,4,0.3,98.83,4.06
+ORD-1442,2024-10-09,2024-10-13,Second Class,Consumer,East,Pennsylvania,Technology,Phones,Smartphone Stand,5,0.15,752.4,60.73
+ORD-1443,2023-02-21,2023-02-27,First Class,Consumer,South,Louisiana,Technology,Phones,Wireless Headset,4,0,1100.4,103.88
+ORD-1444,2024-05-02,2024-05-07,Second Class,Corporate,East,Virginia,Office Supplies,Art,Acrylic Paint Set,4,0.15,153.63,21.41
+ORD-1445,2024-07-26,2024-07-28,First Class,Corporate,South,Louisiana,Technology,Accessories,Laptop Sleeve,5,0.2,938.94,-35.03
+ORD-1446,2023-11-28,2023-12-04,Standard Class,Corporate,East,New York,Technology,Copiers,Compact Copier,3,0,550.01,84.35
+ORD-1447,2023-06-23,2023-06-26,Standard Class,Consumer,South,Kentucky,Furniture,Furnishings,Floor Lamp,2,0,660.66,63.95
+ORD-1448,2023-02-25,2023-02-27,Second Class,Home Office,West,Oregon,Furniture,Bookcases,Wall-Mount Shelf,1,0,284.21,16.15
+ORD-1449,2024-07-04,2024-07-06,Standard Class,Corporate,West,Nevada,Technology,Machines,Portable Scanner,5,0.2,1227.26,120.91
+ORD-1450,2024-08-19,2024-08-25,Same Day,Home Office,East,Pennsylvania,Furniture,Chairs,Wooden Dining Chair,2,0.3,465.53,-50.56
+ORD-1451,2023-01-09,2023-01-10,Second Class,Corporate,South,Alabama,Technology,Machines,Laser Printer,1,0,287.58,70.41
+ORD-1452,2024-06-04,2024-06-10,Standard Class,Consumer,East,Pennsylvania,Office Supplies,Appliances,Paper Shredder,2,0,94.54,17.72
+ORD-1453,2023-09-11,2023-09-16,First Class,Consumer,Central,Ohio,Office Supplies,Storage,File Organizer Box,1,0,53.06,8.31
+ORD-1454,2024-05-28,2024-05-31,Second Class,Consumer,East,Pennsylvania,Office Supplies,Binders,3-Ring Binder Pack,2,0,84.53,14.19
+ORD-1455,2024-01-27,2024-02-01,Second Class,Home Office,West,Arizona,Furniture,Tables,Standing Desk,3,0.15,664.38,61.57
+ORD-1456,2023-05-22,2023-05-27,Second Class,Corporate,West,Washington,Office Supplies,Appliances,Paper Shredder,4,0.3,101.0,9.08
+ORD-1457,2023-03-11,2023-03-16,First Class,Consumer,East,Florida,Office Supplies,Paper,A4 Copy Paper 500ct,3,0.1,166.8,10.18
+ORD-1458,2023-07-12,2023-07-13,Standard Class,Corporate,West,Washington,Furniture,Bookcases,Wall-Mount Shelf,5,0.15,1025.35,-0.35
+ORD-1459,2023-03-23,2023-03-29,Second Class,Consumer,South,Tennessee,Technology,Copiers,Compact Copier,2,0.3,299.14,-14.31
+ORD-1460,2023-08-20,2023-08-21,Standard Class,Consumer,South,North Carolina,Office Supplies,Storage,File Organizer Box,6,0.2,300.62,35.27
+ORD-1461,2024-03-25,2024-04-01,Same Day,Home Office,South,Alabama,Office Supplies,Paper,Recycled Notebook Pack,4,0.3,91.89,2.81
+ORD-1462,2023-11-17,2023-11-21,Standard Class,Home Office,East,Virginia,Furniture,Furnishings,Area Rug 5x7,1,0,297.67,50.21
+ORD-1463,2024-02-01,2024-02-06,Same Day,Corporate,East,Florida,Office Supplies,Storage,Desk Drawer Unit,3,0.3,120.9,-6.24
+ORD-1464,2024-09-19,2024-09-20,Second Class,Corporate,West,Arizona,Technology,Copiers,Office Copier Pro,6,0.15,874.28,143.05
+ORD-1465,2024-02-28,2024-03-02,First Class,Home Office,South,North Carolina,Furniture,Furnishings,Wall Clock,6,0,2213.88,170.59
+ORD-1466,2024-10-26,2024-11-01,Same Day,Home Office,West,California,Furniture,Chairs,Mesh Task Chair,4,0.2,854.84,40.3
+ORD-1467,2024-06-07,2024-06-12,Second Class,Consumer,West,Arizona,Technology,Copiers,Office Copier Pro,2,0,482.17,119.51
+ORD-1468,2023-05-29,2023-05-31,Second Class,Consumer,East,Georgia,Office Supplies,Art,Sketchbook A3,3,0.2,89.26,14.24
+ORD-1469,2024-09-29,2024-10-06,Second Class,Consumer,Central,Texas,Office Supplies,Storage,Desk Drawer Unit,5,0.3,110.88,8.3
+ORD-1470,2024-08-25,2024-08-31,First Class,Home Office,South,Louisiana,Office Supplies,Storage,File Organizer Box,5,0.15,134.75,26.23
+ORD-1471,2024-10-05,2024-10-10,First Class,Corporate,West,California,Furniture,Tables,Oak Coffee Table,6,0,1219.18,373.25
+ORD-1472,2023-03-31,2023-04-01,Second Class,Corporate,East,Georgia,Furniture,Tables,Folding Conference Table,3,0.15,830.13,116.18
+ORD-1473,2024-08-15,2024-08-18,Standard Class,Corporate,East,New York,Office Supplies,Art,Sketchbook A3,4,0.3,94.17,-5.82
+ORD-1474,2024-04-27,2024-04-29,Standard Class,Home Office,East,Pennsylvania,Office Supplies,Appliances,Label Printer,5,0,267.09,62.4
+ORD-1475,2024-10-06,2024-10-11,First Class,Consumer,East,Georgia,Technology,Machines,Portable Scanner,5,0.3,709.59,-22.98
+ORD-1476,2024-09-21,2024-09-26,Second Class,Consumer,South,Kentucky,Technology,Copiers,Compact Copier,2,0.15,322.73,5.53
+ORD-1477,2023-05-02,2023-05-03,Second Class,Consumer,South,North Carolina,Technology,Accessories,Laptop Sleeve,4,0.1,579.62,43.41
+ORD-1478,2024-10-17,2024-10-19,First Class,Corporate,Central,Ohio,Furniture,Bookcases,Corner Bookshelf,5,0.15,1102.83,-75.17
+ORD-1479,2024-02-10,2024-02-16,Second Class,Corporate,East,Florida,Furniture,Bookcases,Corner Bookshelf,6,0.1,2028.07,424.22
+ORD-1480,2023-06-09,2023-06-15,First Class,Home Office,South,Kentucky,Office Supplies,Storage,Desk Drawer Unit,6,0,346.83,48.49
+ORD-1481,2024-07-02,2024-07-03,Same Day,Home Office,West,Nevada,Technology,Machines,Portable Scanner,1,0,197.19,11.7
+ORD-1482,2024-07-01,2024-07-08,First Class,Home Office,West,Nevada,Technology,Copiers,Office Copier Pro,5,0,1435.74,395.49
+ORD-1483,2023-02-02,2023-02-05,First Class,Consumer,South,North Carolina,Office Supplies,Paper,Recycled Notebook Pack,4,0.3,172.05,-21.53
+ORD-1484,2023-04-25,2023-04-28,Second Class,Corporate,East,Florida,Furniture,Furnishings,Wall Clock,1,0.3,203.42,-8.13
+ORD-1485,2024-05-10,2024-05-16,Same Day,Home Office,Central,Ohio,Furniture,Chairs,Mesh Task Chair,6,0,1417.3,86.41
+ORD-1486,2024-06-18,2024-06-19,First Class,Consumer,East,Pennsylvania,Furniture,Chairs,Wooden Dining Chair,4,0,864.83,242.03
+ORD-1487,2024-08-14,2024-08-21,Standard Class,Corporate,Central,Illinois,Office Supplies,Paper,A4 Copy Paper 500ct,3,0,144.8,40.81
+ORD-1488,2023-06-02,2023-06-04,First Class,Home Office,Central,Texas,Furniture,Chairs,Ergonomic Office Chair,5,0,1518.38,199.39
+ORD-1489,2023-09-08,2023-09-10,Standard Class,Consumer,East,Pennsylvania,Technology,Machines,Portable Scanner,1,0,158.46,50.86
+ORD-1490,2024-01-28,2024-01-29,Standard Class,Corporate,East,Georgia,Office Supplies,Paper,Recycled Notebook Pack,5,0,206.71,61.03
+ORD-1491,2024-08-04,2024-08-06,Second Class,Consumer,East,Georgia,Furniture,Furnishings,Area Rug 5x7,6,0.2,1608.97,47.66
+ORD-1492,2023-05-28,2023-06-04,Standard Class,Corporate,Central,Ohio,Office Supplies,Paper,Recycled Notebook Pack,3,0.1,126.51,-1.31
+ORD-1493,2024-05-05,2024-05-09,Standard Class,Corporate,West,Oregon,Office Supplies,Appliances,Paper Shredder,5,0,221.4,58.51
+ORD-1494,2024-07-23,2024-07-29,Second Class,Corporate,East,Pennsylvania,Technology,Copiers,Compact Copier,5,0.1,858.33,37.0
+ORD-1495,2024-01-29,2024-01-30,Second Class,Home Office,Central,Illinois,Technology,Copiers,Compact Copier,5,0.3,723.45,13.2
+ORD-1496,2024-11-16,2024-11-17,Same Day,Consumer,South,North Carolina,Technology,Copiers,Compact Copier,5,0,1402.96,144.3
+ORD-1497,2024-09-04,2024-09-05,Standard Class,Consumer,South,Alabama,Office Supplies,Binders,Leather Binder Set,2,0.3,50.23,-0.79
+ORD-1498,2024-11-07,2024-11-09,First Class,Corporate,South,Kentucky,Office Supplies,Storage,Desk Drawer Unit,2,0,105.94,15.36
+ORD-1499,2023-12-19,2023-12-20,Standard Class,Consumer,East,Virginia,Technology,Copiers,Office Copier Pro,3,0,632.58,135.79
+ORD-1500,2024-12-21,2024-12-26,Same Day,Corporate,Central,Texas,Office Supplies,Binders,Leather Binder Set,4,0.2,160.29,12.43
+ORD-1501,2024-01-26,2024-01-30,Same Day,Consumer,West,Washington,Office Supplies,Paper,A4 Copy Paper 500ct,5,0.1,261.29,20.4
+ORD-1502,2023-10-23,2023-10-30,Same Day,Consumer,West,Washington,Furniture,Chairs,Mesh Task Chair,1,0,337.38,66.13
+ORD-1503,2023-03-28,2023-03-30,Same Day,Corporate,South,Louisiana,Technology,Copiers,Office Copier Pro,4,0.15,745.67,131.25
+ORD-1504,2023-08-20,2023-08-22,First Class,Consumer,South,Kentucky,Furniture,Furnishings,Wall Clock,2,0.2,470.94,6.24
+ORD-1505,2023-02-08,2023-02-13,First Class,Corporate,South,Alabama,Furniture,Furnishings,Wall Clock,1,0,339.12,70.51
+ORD-1506,2024-06-13,2024-06-14,Standard Class,Corporate,East,Florida,Office Supplies,Binders,3-Ring Binder Pack,5,0,299.81,63.11
+ORD-1507,2024-04-09,2024-04-14,First Class,Home Office,South,Kentucky,Technology,Machines,Portable Scanner,3,0.3,418.68,-58.51
+ORD-1508,2024-07-31,2024-08-03,Standard Class,Corporate,East,Georgia,Technology,Accessories,Laptop Sleeve,1,0.2,245.21,32.53
+ORD-1509,2024-05-11,2024-05-12,Standard Class,Home Office,West,Nevada,Furniture,Bookcases,Corner Bookshelf,2,0.15,426.82,79.97
+ORD-1510,2023-04-25,2023-04-30,Second Class,Corporate,West,Nevada,Technology,Accessories,Laptop Sleeve,4,0,1113.63,142.96
+ORD-1511,2023-07-05,2023-07-12,Same Day,Consumer,East,Pennsylvania,Furniture,Tables,Folding Conference Table,2,0.3,410.49,44.36
+ORD-1512,2024-11-07,2024-11-11,Second Class,Corporate,West,Washington,Technology,Machines,Laser Printer,6,0,1622.07,137.55
+ORD-1513,2024-02-13,2024-02-17,Same Day,Consumer,Central,Missouri,Technology,Accessories,Wireless Mouse,6,0.2,1027.54,-32.07
+ORD-1514,2023-10-23,2023-10-30,Same Day,Home Office,South,Louisiana,Technology,Machines,Laser Printer,1,0.15,214.34,46.48
+ORD-1515,2024-10-29,2024-11-05,Second Class,Home Office,Central,Ohio,Office Supplies,Art,Acrylic Paint Set,3,0.2,119.76,3.39
+ORD-1516,2024-11-19,2024-11-24,Standard Class,Corporate,West,Nevada,Office Supplies,Paper,Recycled Notebook Pack,5,0,263.47,78.91
+ORD-1517,2023-04-11,2023-04-16,Standard Class,Home Office,East,Georgia,Office Supplies,Paper,Recycled Notebook Pack,3,0,97.72,23.04
+ORD-1518,2024-11-03,2024-11-10,Second Class,Consumer,West,Nevada,Technology,Phones,Wireless Headset,1,0.3,172.99,-13.36
+ORD-1519,2024-12-13,2024-12-15,First Class,Corporate,Central,Ohio,Office Supplies,Binders,3-Ring Binder Pack,3,0.3,94.39,7.65
+ORD-1520,2023-06-15,2023-06-22,Second Class,Corporate,East,Pennsylvania,Furniture,Furnishings,Area Rug 5x7,3,0,739.84,217.39
+ORD-1521,2023-03-13,2023-03-17,Standard Class,Corporate,West,Nevada,Office Supplies,Paper,Recycled Notebook Pack,1,0,48.53,8.71
+ORD-1522,2023-09-23,2023-09-24,Standard Class,Home Office,East,New York,Furniture,Bookcases,Corner Bookshelf,1,0.1,202.66,32.85
+ORD-1523,2024-02-04,2024-02-07,Same Day,Corporate,West,Oregon,Office Supplies,Appliances,Paper Shredder,5,0.2,244.43,9.09
+ORD-1524,2023-03-13,2023-03-18,First Class,Corporate,West,California,Office Supplies,Storage,File Organizer Box,5,0.15,259.05,9.76
+ORD-1525,2023-02-26,2023-03-04,Second Class,Home Office,East,Pennsylvania,Technology,Machines,Laser Printer,4,0.3,761.72,3.3
+ORD-1526,2023-02-10,2023-02-14,Same Day,Home Office,West,Oregon,Technology,Copiers,Office Copier Pro,6,0.2,1004.77,-84.94
+ORD-1527,2023-07-14,2023-07-16,Same Day,Home Office,East,Florida,Furniture,Tables,Standing Desk,4,0,1405.51,341.57
+ORD-1528,2024-04-05,2024-04-06,Same Day,Home Office,East,Pennsylvania,Furniture,Bookcases,Wall-Mount Shelf,1,0.1,197.25,41.84
+ORD-1529,2024-07-03,2024-07-05,Standard Class,Consumer,West,California,Furniture,Tables,Standing Desk,6,0,1730.15,563.0
+ORD-1530,2024-12-19,2024-12-25,Standard Class,Consumer,West,California,Furniture,Chairs,Wooden Dining Chair,1,0.1,284.22,62.7
+ORD-1531,2023-04-27,2023-05-01,Second Class,Corporate,West,California,Furniture,Furnishings,Area Rug 5x7,6,0.2,1319.01,-97.29
+ORD-1532,2023-08-07,2023-08-14,First Class,Home Office,East,Virginia,Furniture,Bookcases,5-Shelf Bookcase,1,0,223.68,39.04
+ORD-1533,2023-06-18,2023-06-22,Same Day,Consumer,West,Nevada,Furniture,Tables,Oak Coffee Table,6,0.15,1375.58,-31.19
+ORD-1534,2023-01-07,2023-01-08,Second Class,Consumer,West,California,Technology,Machines,Portable Scanner,6,0.3,1159.22,-54.71
+ORD-1535,2023-05-27,2023-06-02,Same Day,Home Office,Central,Colorado,Office Supplies,Storage,File Organizer Box,2,0.15,90.59,9.86
+ORD-1536,2023-04-01,2023-04-07,First Class,Home Office,Central,Ohio,Office Supplies,Binders,Leather Binder Set,2,0,125.16,42.93
+ORD-1537,2024-06-03,2024-06-05,Same Day,Corporate,South,Tennessee,Office Supplies,Binders,Leather Binder Set,1,0.3,25.34,1.6
+ORD-1538,2023-06-30,2023-07-02,Same Day,Consumer,East,New York,Technology,Machines,Portable Scanner,2,0.1,346.88,53.78
+ORD-1539,2023-04-17,2023-04-23,Same Day,Home Office,East,Virginia,Furniture,Tables,Oak Coffee Table,4,0.15,743.75,147.65
+ORD-1540,2024-08-16,2024-08-19,Same Day,Consumer,South,Tennessee,Technology,Machines,Laser Printer,1,0,189.08,22.9
+ORD-1541,2024-01-20,2024-01-22,Second Class,Corporate,East,Georgia,Technology,Copiers,Office Copier Pro,4,0,749.16,174.43
+ORD-1542,2024-01-18,2024-01-20,Standard Class,Corporate,South,Tennessee,Technology,Machines,Portable Scanner,2,0,347.18,89.46
+ORD-1543,2023-05-20,2023-05-21,Second Class,Home Office,South,Louisiana,Office Supplies,Paper,Recycled Notebook Pack,2,0,101.03,28.98
+ORD-1544,2024-07-20,2024-07-27,Standard Class,Home Office,West,California,Office Supplies,Appliances,Label Printer,2,0.15,78.91,5.43
+ORD-1545,2024-03-14,2024-03-20,Same Day,Consumer,West,Washington,Office Supplies,Storage,File Organizer Box,5,0,301.42,96.3
+ORD-1546,2023-02-11,2023-02-15,Standard Class,Home Office,East,Georgia,Technology,Copiers,Compact Copier,6,0.3,710.19,-29.41
+ORD-1547,2023-01-13,2023-01-19,First Class,Consumer,South,Tennessee,Furniture,Bookcases,Corner Bookshelf,2,0.2,626.87,-65.96
+ORD-1548,2024-12-21,2024-12-25,Standard Class,Home Office,East,Georgia,Office Supplies,Paper,Recycled Notebook Pack,2,0.3,82.54,-0.16
+ORD-1549,2023-03-14,2023-03-18,Second Class,Home Office,Central,Colorado,Furniture,Bookcases,Corner Bookshelf,3,0.2,915.44,48.27
+ORD-1550,2023-03-24,2023-03-29,First Class,Corporate,Central,Texas,Technology,Machines,Laser Printer,1,0.1,189.27,29.48
+ORD-1551,2023-06-29,2023-07-05,Second Class,Home Office,East,Virginia,Technology,Accessories,USB-C Hub,3,0,711.31,174.07
+ORD-1552,2023-08-19,2023-08-22,Standard Class,Corporate,Central,Ohio,Technology,Copiers,Compact Copier,1,0,211.41,39.26
+ORD-1553,2024-12-27,2025-01-01,Second Class,Corporate,Central,Missouri,Technology,Machines,Laser Printer,2,0.1,301.4,26.28
+ORD-1554,2023-03-20,2023-03-21,Standard Class,Corporate,West,Oregon,Furniture,Tables,Standing Desk,2,0.3,330.45,31.6
+ORD-1555,2024-03-02,2024-03-08,Standard Class,Consumer,West,Arizona,Office Supplies,Storage,Desk Drawer Unit,6,0.2,154.45,-8.23
+ORD-1556,2024-06-16,2024-06-22,Same Day,Corporate,Central,Missouri,Technology,Machines,Portable Scanner,4,0.15,872.24,77.67
+ORD-1557,2023-11-08,2023-11-13,Standard Class,Consumer,West,Oregon,Furniture,Bookcases,5-Shelf Bookcase,4,0,1545.05,434.04
+ORD-1558,2023-12-28,2023-12-31,Second Class,Consumer,South,Tennessee,Technology,Accessories,Laptop Sleeve,5,0,910.36,93.41
+ORD-1559,2023-09-01,2023-09-02,Standard Class,Home Office,East,Pennsylvania,Technology,Accessories,Wireless Mouse,3,0,547.24,119.71
+ORD-1560,2023-11-21,2023-11-24,Same Day,Consumer,West,Oregon,Office Supplies,Appliances,Paper Shredder,5,0,176.63,10.15
+ORD-1561,2024-04-14,2024-04-17,Second Class,Home Office,West,California,Technology,Machines,Portable Scanner,4,0,1213.28,335.17
+ORD-1562,2024-03-28,2024-03-31,Second Class,Corporate,East,Georgia,Furniture,Tables,Folding Conference Table,5,0,1281.92,218.55
+ORD-1563,2024-01-01,2024-01-02,Second Class,Consumer,Central,Texas,Technology,Accessories,Laptop Sleeve,5,0,1371.59,384.22
+ORD-1564,2023-03-27,2023-04-01,Standard Class,Home Office,South,North Carolina,Technology,Copiers,Office Copier Pro,4,0,987.55,200.93
+ORD-1565,2024-01-05,2024-01-09,Same Day,Home Office,West,Arizona,Office Supplies,Storage,Desk Drawer Unit,1,0,42.36,6.03
+ORD-1566,2023-03-31,2023-04-02,Standard Class,Consumer,South,Louisiana,Office Supplies,Art,Acrylic Paint Set,6,0.1,294.04,27.72
+ORD-1567,2023-08-01,2023-08-04,Same Day,Consumer,South,Kentucky,Office Supplies,Binders,3-Ring Binder Pack,1,0,44.4,14.4
+ORD-1568,2024-07-23,2024-07-27,First Class,Corporate,West,Washington,Furniture,Furnishings,Area Rug 5x7,5,0.1,919.25,200.28
+ORD-1569,2024-07-26,2024-08-01,Same Day,Consumer,South,Tennessee,Furniture,Chairs,Ergonomic Office Chair,3,0,1150.14,345.36
+ORD-1570,2024-10-31,2024-11-06,Same Day,Consumer,Central,Missouri,Furniture,Furnishings,Wall Clock,6,0,1209.45,337.94
+ORD-1571,2024-09-05,2024-09-11,Standard Class,Corporate,Central,Colorado,Office Supplies,Appliances,Label Printer,3,0.2,127.46,23.23
+ORD-1572,2024-06-08,2024-06-14,Second Class,Consumer,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,3,0.1,994.01,10.59
+ORD-1573,2023-10-07,2023-10-10,Second Class,Consumer,South,Alabama,Furniture,Bookcases,Corner Bookshelf,5,0.2,1518.07,67.04
+ORD-1574,2024-09-05,2024-09-12,First Class,Consumer,West,Nevada,Office Supplies,Art,Sketchbook A3,3,0.2,128.37,-0.16
+ORD-1575,2023-01-14,2023-01-16,Second Class,Home Office,Central,Ohio,Office Supplies,Storage,Desk Drawer Unit,2,0,76.73,15.42
+ORD-1576,2024-09-20,2024-09-26,First Class,Consumer,East,Georgia,Office Supplies,Binders,Leather Binder Set,2,0,93.21,13.37
+ORD-1577,2024-03-28,2024-04-02,Second Class,Home Office,Central,Illinois,Technology,Machines,Laser Printer,6,0.3,723.51,-109.53
+ORD-1578,2023-08-21,2023-08-24,Same Day,Corporate,West,Washington,Furniture,Chairs,Wooden Dining Chair,6,0.3,1468.61,-244.79
+ORD-1579,2023-02-13,2023-02-15,Standard Class,Consumer,East,New York,Technology,Phones,Smartphone Stand,1,0,160.67,22.57
+ORD-1580,2023-05-07,2023-05-12,First Class,Home Office,West,Nevada,Furniture,Tables,Folding Conference Table,3,0,641.38,194.82
+ORD-1581,2023-12-23,2023-12-26,Standard Class,Home Office,West,Nevada,Technology,Accessories,Laptop Sleeve,5,0,846.31,189.1
+ORD-1582,2023-08-11,2023-08-17,Same Day,Corporate,West,Oregon,Furniture,Chairs,Mesh Task Chair,1,0,376.41,114.95
+ORD-1583,2024-12-15,2024-12-20,Same Day,Consumer,West,Arizona,Technology,Phones,Wireless Headset,3,0.1,592.14,73.59
+ORD-1584,2023-11-18,2023-11-19,Standard Class,Corporate,South,North Carolina,Technology,Accessories,Wireless Mouse,3,0.2,476.15,50.78
+ORD-1585,2024-05-20,2024-05-21,First Class,Corporate,South,Alabama,Office Supplies,Appliances,Label Printer,6,0.3,191.04,-4.55
+ORD-1586,2023-07-13,2023-07-20,Same Day,Home Office,East,Georgia,Technology,Machines,Laser Printer,1,0.2,183.77,-14.42
+ORD-1587,2024-11-05,2024-11-11,Second Class,Consumer,East,New York,Furniture,Furnishings,Area Rug 5x7,6,0.15,1976.78,301.32
+ORD-1588,2024-01-08,2024-01-10,First Class,Home Office,Central,Illinois,Technology,Copiers,Office Copier Pro,2,0.3,307.17,-12.37
+ORD-1589,2024-02-14,2024-02-17,Same Day,Corporate,South,Kentucky,Office Supplies,Storage,Desk Drawer Unit,2,0.3,64.15,-9.84
+ORD-1590,2023-08-25,2023-08-31,First Class,Consumer,West,California,Furniture,Chairs,Ergonomic Office Chair,4,0.2,643.98,-36.24
+ORD-1591,2023-11-07,2023-11-12,First Class,Home Office,East,New York,Technology,Copiers,Compact Copier,2,0,511.92,100.89
+ORD-1592,2023-12-18,2023-12-25,Standard Class,Consumer,East,New York,Office Supplies,Binders,3-Ring Binder Pack,4,0,233.46,42.67
+ORD-1593,2023-07-01,2023-07-06,Same Day,Home Office,Central,Illinois,Office Supplies,Storage,File Organizer Box,3,0.2,105.01,12.52
+ORD-1594,2024-07-21,2024-07-27,Same Day,Home Office,South,Louisiana,Technology,Accessories,Laptop Sleeve,1,0.1,175.11,25.8
+ORD-1595,2024-11-23,2024-11-26,Standard Class,Home Office,Central,Ohio,Furniture,Chairs,Mesh Task Chair,1,0,360.04,55.68
+ORD-1596,2023-12-16,2023-12-20,First Class,Home Office,East,Georgia,Office Supplies,Art,Sketchbook A3,3,0,156.99,19.51
+ORD-1597,2023-03-28,2023-04-03,Same Day,Home Office,East,Pennsylvania,Furniture,Bookcases,5-Shelf Bookcase,1,0.15,220.93,15.08
+ORD-1598,2024-06-11,2024-06-15,Standard Class,Corporate,Central,Texas,Technology,Copiers,Office Copier Pro,3,0.1,652.95,43.57
+ORD-1599,2023-04-13,2023-04-19,Second Class,Corporate,West,Oregon,Office Supplies,Appliances,Label Printer,2,0.15,69.59,15.37
+ORD-1600,2024-10-12,2024-10-19,Second Class,Home Office,East,Virginia,Furniture,Bookcases,Corner Bookshelf,1,0,391.26,66.75
+ORD-1601,2023-04-05,2023-04-11,First Class,Consumer,East,Virginia,Office Supplies,Art,Acrylic Paint Set,5,0.3,168.8,-10.44
+ORD-1602,2024-10-29,2024-11-05,Same Day,Home Office,Central,Colorado,Office Supplies,Storage,Desk Drawer Unit,2,0.1,79.51,12.52
+ORD-1603,2024-07-14,2024-07-16,Same Day,Home Office,East,Virginia,Furniture,Furnishings,Floor Lamp,6,0.3,1434.19,-71.44
+ORD-1604,2024-10-03,2024-10-04,Same Day,Corporate,West,Oregon,Office Supplies,Paper,A4 Copy Paper 500ct,2,0.2,84.94,-1.69
+ORD-1605,2023-11-23,2023-11-30,Same Day,Consumer,East,Florida,Office Supplies,Art,Sketchbook A3,6,0,237.47,54.71
+ORD-1606,2023-04-27,2023-04-29,Standard Class,Consumer,West,California,Furniture,Bookcases,Corner Bookshelf,4,0.15,1327.0,75.12
+ORD-1607,2023-06-13,2023-06-16,Standard Class,Consumer,West,California,Office Supplies,Art,Acrylic Paint Set,6,0.3,137.89,3.69
+ORD-1608,2023-03-27,2023-03-30,Standard Class,Home Office,Central,Texas,Office Supplies,Art,Acrylic Paint Set,4,0.3,152.08,-22.48
+ORD-1609,2024-05-27,2024-05-28,Same Day,Home Office,Central,Missouri,Furniture,Tables,Folding Conference Table,1,0.3,247.88,-22.61
+ORD-1610,2023-08-30,2023-09-03,Standard Class,Corporate,West,Washington,Furniture,Tables,Oak Coffee Table,3,0.1,745.31,170.58
+ORD-1611,2024-06-30,2024-07-03,Second Class,Corporate,East,Pennsylvania,Technology,Copiers,Compact Copier,6,0,1814.1,569.32
+ORD-1612,2024-05-01,2024-05-07,Second Class,Corporate,Central,Ohio,Furniture,Chairs,Mesh Task Chair,6,0.3,1597.71,27.49
+ORD-1613,2024-07-19,2024-07-23,First Class,Corporate,Central,Ohio,Technology,Phones,Wireless Headset,4,0.1,558.76,144.29
+ORD-1614,2023-04-03,2023-04-10,Same Day,Consumer,West,Oregon,Furniture,Tables,Standing Desk,6,0,2210.25,618.92
+ORD-1615,2023-10-08,2023-10-15,Second Class,Home Office,East,Georgia,Office Supplies,Storage,Desk Drawer Unit,6,0.1,319.24,68.98
+ORD-1616,2023-09-25,2023-09-30,Second Class,Home Office,East,Pennsylvania,Office Supplies,Appliances,Label Printer,4,0.2,103.56,-9.77
+ORD-1617,2024-03-30,2024-04-06,Second Class,Home Office,West,California,Office Supplies,Paper,Recycled Notebook Pack,3,0.15,86.93,-1.97
+ORD-1618,2024-12-03,2024-12-07,First Class,Consumer,Central,Missouri,Office Supplies,Paper,Recycled Notebook Pack,2,0.2,80.29,-0.94
+ORD-1619,2023-03-28,2023-04-01,Second Class,Consumer,Central,Illinois,Office Supplies,Storage,File Organizer Box,1,0,60.58,14.79
+ORD-1620,2024-04-18,2024-04-20,First Class,Consumer,Central,Illinois,Furniture,Furnishings,Wall Clock,4,0.15,839.77,-36.35
+ORD-1621,2024-08-03,2024-08-04,First Class,Corporate,East,Virginia,Office Supplies,Storage,Desk Drawer Unit,1,0,53.98,5.78
+ORD-1622,2024-05-21,2024-05-25,Second Class,Consumer,West,Arizona,Furniture,Tables,Standing Desk,6,0.2,1118.95,-62.54
+ORD-1623,2023-10-25,2023-10-28,Same Day,Consumer,West,Nevada,Office Supplies,Paper,Recycled Notebook Pack,5,0.2,207.55,-17.49
+ORD-1624,2023-11-28,2023-12-04,Standard Class,Consumer,South,Tennessee,Technology,Copiers,Compact Copier,6,0.15,986.64,-40.86
+ORD-1625,2023-12-07,2023-12-09,Same Day,Home Office,South,Alabama,Technology,Phones,Wireless Headset,3,0.15,636.04,13.2
+ORD-1626,2024-01-15,2024-01-17,Second Class,Consumer,East,Virginia,Furniture,Bookcases,5-Shelf Bookcase,5,0.1,1702.55,397.32
+ORD-1627,2023-11-21,2023-11-27,First Class,Home Office,South,Tennessee,Office Supplies,Binders,3-Ring Binder Pack,1,0,47.23,16.15
+ORD-1628,2024-01-05,2024-01-09,Second Class,Home Office,Central,Ohio,Technology,Machines,Portable Scanner,4,0,810.37,282.31
+ORD-1629,2024-11-04,2024-11-10,Same Day,Corporate,South,North Carolina,Furniture,Tables,Oak Coffee Table,2,0,406.06,52.0
+ORD-1630,2023-04-29,2023-05-03,Second Class,Consumer,East,Georgia,Office Supplies,Appliances,Label Printer,4,0.1,126.16,23.46
+ORD-1631,2023-12-24,2023-12-25,Second Class,Home Office,West,Oregon,Furniture,Tables,Folding Conference Table,5,0.3,873.14,67.47
+ORD-1632,2023-01-05,2023-01-10,Standard Class,Corporate,West,Arizona,Furniture,Tables,Standing Desk,6,0,2219.54,128.26
+ORD-1633,2024-01-18,2024-01-23,First Class,Home Office,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,4,0.3,937.19,-43.15
+ORD-1634,2024-11-04,2024-11-05,Second Class,Consumer,Central,Texas,Technology,Copiers,Compact Copier,6,0.2,1409.56,181.99
+ORD-1635,2023-02-19,2023-02-26,Second Class,Corporate,Central,Ohio,Furniture,Chairs,Mesh Task Chair,5,0.1,963.63,44.86
+ORD-1636,2023-04-02,2023-04-03,First Class,Corporate,West,Washington,Office Supplies,Storage,Desk Drawer Unit,6,0.3,258.57,-37.17
+ORD-1637,2024-03-18,2024-03-24,Same Day,Corporate,Central,Colorado,Furniture,Bookcases,Wall-Mount Shelf,1,0.3,187.62,-24.4
+ORD-1638,2024-05-02,2024-05-05,First Class,Corporate,South,North Carolina,Office Supplies,Art,Acrylic Paint Set,4,0.2,143.74,-14.07
+ORD-1639,2024-11-23,2024-11-25,First Class,Consumer,West,Arizona,Technology,Phones,Smartphone Stand,4,0.1,598.3,125.92
+ORD-1640,2023-05-11,2023-05-17,Standard Class,Home Office,Central,Illinois,Technology,Copiers,Compact Copier,5,0,1194.27,388.37
+ORD-1641,2024-03-11,2024-03-15,Standard Class,Home Office,East,Georgia,Technology,Machines,Portable Scanner,3,0.15,424.81,34.42
+ORD-1642,2024-11-08,2024-11-12,Same Day,Home Office,West,Washington,Office Supplies,Binders,Leather Binder Set,4,0.2,130.8,8.65
+ORD-1643,2024-04-05,2024-04-10,Standard Class,Corporate,Central,Ohio,Furniture,Tables,Oak Coffee Table,1,0.2,310.81,-10.01
+ORD-1644,2024-07-01,2024-07-02,Same Day,Corporate,East,Georgia,Furniture,Chairs,Ergonomic Office Chair,6,0.1,1545.44,141.45
+ORD-1645,2024-09-25,2024-10-02,Second Class,Consumer,Central,Missouri,Office Supplies,Binders,Leather Binder Set,2,0,75.02,22.12
+ORD-1646,2023-08-03,2023-08-07,Same Day,Consumer,West,Washington,Office Supplies,Appliances,Paper Shredder,1,0,55.75,5.27
+ORD-1647,2023-04-30,2023-05-02,Same Day,Consumer,West,Arizona,Office Supplies,Storage,File Organizer Box,4,0.15,133.09,2.46
+ORD-1648,2023-12-08,2023-12-09,Same Day,Consumer,East,Georgia,Office Supplies,Storage,Desk Drawer Unit,1,0.1,39.68,4.92
+ORD-1649,2023-03-04,2023-03-09,Same Day,Home Office,East,Georgia,Technology,Machines,Laser Printer,3,0.2,523.77,16.76
+ORD-1650,2024-10-23,2024-10-26,Second Class,Home Office,South,Louisiana,Furniture,Tables,Standing Desk,6,0,1727.83,313.49
+ORD-1651,2024-12-02,2024-12-05,Second Class,Home Office,South,Tennessee,Office Supplies,Storage,Desk Drawer Unit,6,0.2,262.27,33.78
+ORD-1652,2023-08-01,2023-08-04,Same Day,Corporate,East,Georgia,Furniture,Tables,Oak Coffee Table,2,0.15,497.2,83.55
+ORD-1653,2023-08-29,2023-08-31,Standard Class,Consumer,East,New York,Office Supplies,Art,Sketchbook A3,6,0,222.02,68.35
+ORD-1654,2023-12-12,2023-12-16,First Class,Consumer,East,Virginia,Furniture,Chairs,Mesh Task Chair,2,0.1,443.76,31.99
+ORD-1655,2024-07-24,2024-07-27,Standard Class,Consumer,West,Nevada,Technology,Phones,Wireless Headset,4,0.3,628.32,39.26
+ORD-1656,2024-09-17,2024-09-22,Second Class,Home Office,East,Virginia,Furniture,Chairs,Ergonomic Office Chair,6,0,2200.14,711.3
+ORD-1657,2023-10-27,2023-11-02,Second Class,Corporate,South,Kentucky,Office Supplies,Binders,Leather Binder Set,6,0,252.24,23.04
+ORD-1658,2024-03-01,2024-03-08,Same Day,Corporate,East,Florida,Office Supplies,Art,Sketchbook A3,5,0,170.92,27.64
+ORD-1659,2024-10-06,2024-10-12,Same Day,Home Office,West,Washington,Technology,Copiers,Office Copier Pro,2,0.3,308.05,26.31
+ORD-1660,2024-11-29,2024-12-02,Second Class,Corporate,East,Georgia,Furniture,Chairs,Mesh Task Chair,5,0,1063.08,153.55
+ORD-1661,2023-03-04,2023-03-08,First Class,Home Office,East,Florida,Technology,Phones,Smartphone Stand,4,0.1,1045.48,188.43
+ORD-1662,2023-11-18,2023-11-21,Same Day,Home Office,East,Pennsylvania,Technology,Accessories,Laptop Sleeve,4,0.1,911.37,215.33
+ORD-1663,2023-12-20,2023-12-27,Second Class,Home Office,South,Tennessee,Office Supplies,Binders,Leather Binder Set,5,0,218.92,58.16
+ORD-1664,2024-07-07,2024-07-10,First Class,Consumer,West,California,Technology,Machines,Portable Scanner,6,0,945.64,299.86
+ORD-1665,2023-11-08,2023-11-14,Standard Class,Corporate,South,Kentucky,Furniture,Chairs,Wooden Dining Chair,3,0.2,709.13,-51.66
+ORD-1666,2023-11-02,2023-11-07,Second Class,Home Office,East,Georgia,Office Supplies,Paper,A4 Copy Paper 500ct,3,0,121.39,34.65
+ORD-1667,2024-01-22,2024-01-27,Same Day,Consumer,West,California,Office Supplies,Appliances,Paper Shredder,3,0.1,93.38,17.13
+ORD-1668,2023-04-05,2023-04-06,Same Day,Corporate,South,Tennessee,Office Supplies,Paper,Recycled Notebook Pack,1,0,52.82,9.02
+ORD-1669,2024-08-21,2024-08-25,Same Day,Consumer,South,Louisiana,Technology,Copiers,Compact Copier,2,0,463.78,90.64
+ORD-1670,2024-12-22,2024-12-27,Standard Class,Home Office,East,Florida,Office Supplies,Storage,File Organizer Box,6,0,367.43,59.08
+ORD-1671,2024-02-23,2024-02-24,First Class,Corporate,East,Pennsylvania,Technology,Machines,Laser Printer,5,0,860.66,121.76
+ORD-1672,2023-10-29,2023-11-02,Same Day,Consumer,East,Florida,Furniture,Furnishings,Floor Lamp,3,0,714.76,211.38
+ORD-1673,2023-05-06,2023-05-11,Same Day,Corporate,Central,Texas,Furniture,Furnishings,Area Rug 5x7,5,0,1534.45,491.16
+ORD-1674,2024-09-12,2024-09-14,Standard Class,Home Office,West,Nevada,Technology,Copiers,Compact Copier,6,0.1,955.49,179.98
+ORD-1675,2024-11-11,2024-11-16,First Class,Home Office,South,Louisiana,Furniture,Furnishings,Area Rug 5x7,5,0,1918.92,608.32
+ORD-1676,2023-04-01,2023-04-08,Standard Class,Home Office,West,California,Technology,Machines,Laser Printer,6,0.15,852.28,184.56
+ORD-1677,2024-06-18,2024-06-20,Second Class,Consumer,South,Kentucky,Furniture,Chairs,Mesh Task Chair,5,0,1923.13,254.79
+ORD-1678,2024-12-23,2024-12-30,First Class,Corporate,South,North Carolina,Technology,Machines,Portable Scanner,5,0,1148.43,379.16
+ORD-1679,2023-07-04,2023-07-08,First Class,Consumer,East,Virginia,Office Supplies,Storage,Desk Drawer Unit,1,0,62.36,13.25
+ORD-1680,2023-07-07,2023-07-10,Standard Class,Corporate,East,Florida,Office Supplies,Storage,File Organizer Box,1,0.15,52.51,-0.82
+ORD-1681,2024-02-04,2024-02-05,Second Class,Home Office,Central,Illinois,Office Supplies,Art,Sketchbook A3,4,0.3,167.54,-29.23
+ORD-1682,2024-08-23,2024-08-25,Standard Class,Corporate,South,Kentucky,Technology,Copiers,Office Copier Pro,3,0,609.07,131.52
+ORD-1683,2023-01-30,2023-02-03,First Class,Home Office,West,California,Office Supplies,Appliances,Paper Shredder,2,0.3,68.56,3.12
+ORD-1684,2024-02-21,2024-02-25,Same Day,Home Office,East,Virginia,Furniture,Tables,Standing Desk,5,0,1746.38,368.94
+ORD-1685,2024-04-07,2024-04-08,First Class,Home Office,East,Georgia,Technology,Machines,Laser Printer,1,0,297.76,57.96
+ORD-1686,2024-01-25,2024-01-28,Standard Class,Corporate,West,Nevada,Technology,Machines,Laser Printer,2,0.2,378.0,-33.65
+ORD-1687,2024-12-16,2024-12-17,First Class,Home Office,West,Nevada,Office Supplies,Storage,File Organizer Box,5,0.15,262.05,6.68
+ORD-1688,2023-09-25,2023-10-02,Second Class,Home Office,South,Alabama,Furniture,Bookcases,Corner Bookshelf,2,0.1,691.13,47.37
+ORD-1689,2023-01-03,2023-01-08,Standard Class,Home Office,South,North Carolina,Furniture,Tables,Standing Desk,5,0.2,1335.39,158.56
+ORD-1690,2024-10-28,2024-10-29,Standard Class,Consumer,East,Georgia,Technology,Phones,Smartphone Stand,4,0.3,690.49,-51.08
+ORD-1691,2024-04-18,2024-04-21,First Class,Consumer,West,Arizona,Furniture,Tables,Folding Conference Table,1,0.3,175.77,15.19
+ORD-1692,2023-04-03,2023-04-10,Second Class,Consumer,Central,Illinois,Furniture,Furnishings,Area Rug 5x7,1,0,292.6,76.43
+ORD-1693,2023-07-20,2023-07-27,Second Class,Consumer,South,North Carolina,Office Supplies,Appliances,Label Printer,2,0.15,63.93,9.69
+ORD-1694,2024-08-25,2024-08-27,Standard Class,Home Office,East,Florida,Office Supplies,Appliances,Paper Shredder,5,0.2,224.56,-11.78
+ORD-1695,2024-11-25,2024-11-30,First Class,Corporate,Central,Colorado,Office Supplies,Binders,3-Ring Binder Pack,6,0.2,293.79,-27.75
+ORD-1696,2024-02-21,2024-02-24,Standard Class,Corporate,East,Virginia,Office Supplies,Storage,Desk Drawer Unit,5,0.3,115.04,3.03
+ORD-1697,2024-03-06,2024-03-11,Second Class,Home Office,South,Alabama,Furniture,Furnishings,Floor Lamp,3,0,1105.5,323.14
+ORD-1698,2024-03-09,2024-03-10,Same Day,Consumer,West,Washington,Furniture,Bookcases,Corner Bookshelf,1,0.2,254.85,-25.9
+ORD-1699,2024-08-29,2024-09-05,Second Class,Consumer,Central,Ohio,Furniture,Chairs,Wooden Dining Chair,2,0,718.35,212.98
+ORD-1700,2024-09-06,2024-09-11,Standard Class,Consumer,South,North Carolina,Technology,Copiers,Office Copier Pro,1,0,295.17,48.18
+ORD-1701,2023-03-05,2023-03-12,First Class,Corporate,South,North Carolina,Office Supplies,Appliances,Label Printer,1,0,52.84,11.51
+ORD-1702,2024-02-16,2024-02-17,Standard Class,Corporate,South,Tennessee,Technology,Phones,Smartphone Stand,4,0.1,995.24,232.87
+ORD-1703,2024-10-28,2024-11-03,Second Class,Home Office,East,Georgia,Technology,Machines,Laser Printer,1,0,155.89,41.15
+ORD-1704,2023-05-10,2023-05-16,Second Class,Corporate,Central,Ohio,Office Supplies,Storage,Desk Drawer Unit,2,0,71.67,4.53
+ORD-1705,2024-08-21,2024-08-25,Standard Class,Home Office,Central,Ohio,Technology,Accessories,USB-C Hub,4,0,987.65,135.62
+ORD-1706,2024-08-23,2024-08-29,Second Class,Consumer,West,California,Furniture,Chairs,Wooden Dining Chair,3,0,1162.19,281.44
+ORD-1707,2023-12-16,2023-12-18,Same Day,Consumer,South,Louisiana,Technology,Machines,Portable Scanner,5,0,1092.4,107.8
+ORD-1708,2024-05-22,2024-05-24,First Class,Home Office,East,Florida,Technology,Accessories,Wireless Mouse,5,0,954.04,257.95
+ORD-1709,2024-01-20,2024-01-22,First Class,Corporate,South,Tennessee,Furniture,Bookcases,5-Shelf Bookcase,1,0,201.88,17.07
+ORD-1710,2023-07-19,2023-07-25,Second Class,Corporate,Central,Texas,Furniture,Tables,Oak Coffee Table,3,0,716.74,92.17
+ORD-1711,2024-07-21,2024-07-23,Standard Class,Corporate,West,Washington,Furniture,Tables,Standing Desk,1,0,358.96,32.73
+ORD-1712,2023-08-04,2023-08-07,Standard Class,Consumer,South,Tennessee,Office Supplies,Art,Acrylic Paint Set,5,0.3,220.25,16.41
+ORD-1713,2023-05-28,2023-05-30,Standard Class,Home Office,West,Washington,Technology,Copiers,Compact Copier,3,0.15,561.38,67.84
+ORD-1714,2024-08-24,2024-08-26,Same Day,Consumer,Central,Illinois,Office Supplies,Paper,A4 Copy Paper 500ct,6,0.3,169.35,-25.75
+ORD-1715,2023-03-25,2023-04-01,First Class,Corporate,South,Kentucky,Furniture,Tables,Folding Conference Table,4,0.3,1033.07,36.51
+ORD-1716,2024-06-15,2024-06-19,Standard Class,Consumer,West,Oregon,Technology,Machines,Portable Scanner,6,0.1,1225.58,176.92
+ORD-1717,2023-08-13,2023-08-15,First Class,Corporate,South,Tennessee,Office Supplies,Paper,Recycled Notebook Pack,4,0.1,178.19,44.66
+ORD-1718,2024-07-17,2024-07-18,First Class,Corporate,West,California,Office Supplies,Storage,Desk Drawer Unit,2,0.15,55.75,4.67
+ORD-1719,2024-04-06,2024-04-10,First Class,Home Office,South,Louisiana,Office Supplies,Storage,Desk Drawer Unit,3,0.1,87.15,8.93
+ORD-1720,2023-03-19,2023-03-22,Second Class,Corporate,East,Pennsylvania,Technology,Phones,Smartphone Stand,2,0,344.53,54.46
+ORD-1721,2023-07-21,2023-07-27,First Class,Consumer,Central,Ohio,Office Supplies,Art,Acrylic Paint Set,6,0.15,320.98,73.67
+ORD-1722,2023-11-03,2023-11-06,Second Class,Corporate,Central,Missouri,Office Supplies,Appliances,Paper Shredder,4,0.2,152.47,18.04
+ORD-1723,2023-08-22,2023-08-24,Second Class,Corporate,West,Arizona,Furniture,Furnishings,Wall Clock,4,0,1404.86,202.19
+ORD-1724,2024-12-15,2024-12-19,Standard Class,Corporate,West,Arizona,Office Supplies,Appliances,Paper Shredder,3,0,149.07,13.19
+ORD-1725,2024-11-05,2024-11-12,First Class,Corporate,Central,Ohio,Furniture,Furnishings,Area Rug 5x7,6,0.3,1155.25,50.36
+ORD-1726,2024-08-24,2024-08-25,Same Day,Corporate,East,Florida,Furniture,Bookcases,Wall-Mount Shelf,6,0.3,1319.59,-10.09
+ORD-1727,2023-07-29,2023-08-02,First Class,Consumer,East,Virginia,Office Supplies,Paper,Recycled Notebook Pack,1,0,49.44,9.17
+ORD-1728,2023-06-25,2023-06-26,First Class,Consumer,West,California,Technology,Copiers,Office Copier Pro,2,0,329.4,111.63
+ORD-1729,2023-08-27,2023-08-30,Same Day,Consumer,East,Georgia,Furniture,Bookcases,Wall-Mount Shelf,1,0,260.05,83.98
+ORD-1730,2023-04-24,2023-04-26,Same Day,Consumer,South,Louisiana,Technology,Phones,Smartphone Stand,2,0,576.1,82.34
+ORD-1731,2024-09-10,2024-09-15,Same Day,Home Office,Central,Colorado,Furniture,Furnishings,Area Rug 5x7,2,0,780.51,143.39
+ORD-1732,2023-09-10,2023-09-15,Same Day,Corporate,Central,Colorado,Office Supplies,Storage,Desk Drawer Unit,5,0,273.62,37.31
+ORD-1733,2024-12-18,2024-12-25,Same Day,Corporate,Central,Missouri,Technology,Accessories,Wireless Mouse,2,0,585.19,157.99
+ORD-1734,2024-11-05,2024-11-07,Standard Class,Home Office,East,Georgia,Technology,Phones,Wireless Headset,2,0,579.83,122.53
+ORD-1735,2023-08-11,2023-08-15,Same Day,Consumer,South,Kentucky,Furniture,Bookcases,5-Shelf Bookcase,1,0.15,294.31,8.18
+ORD-1736,2023-09-16,2023-09-18,Same Day,Consumer,East,Georgia,Furniture,Chairs,Mesh Task Chair,6,0.2,1646.15,7.16
+ORD-1737,2024-02-11,2024-02-12,Standard Class,Home Office,East,Pennsylvania,Furniture,Tables,Standing Desk,6,0.2,1377.56,39.13
+ORD-1738,2024-11-03,2024-11-05,First Class,Consumer,South,Tennessee,Office Supplies,Art,Acrylic Paint Set,2,0.3,44.9,-7.18
+ORD-1739,2024-07-01,2024-07-07,Standard Class,Home Office,South,Tennessee,Furniture,Chairs,Mesh Task Chair,3,0,847.11,87.58
+ORD-1740,2024-06-29,2024-07-01,Standard Class,Corporate,South,North Carolina,Technology,Phones,Smartphone Stand,6,0,1334.24,306.16
+ORD-1741,2023-07-26,2023-07-28,Second Class,Home Office,Central,Illinois,Furniture,Chairs,Ergonomic Office Chair,4,0,1559.6,235.71
+ORD-1742,2024-11-16,2024-11-17,First Class,Corporate,West,California,Technology,Accessories,Laptop Sleeve,2,0,436.03,35.89
+ORD-1743,2024-07-29,2024-08-04,Second Class,Consumer,West,Nevada,Furniture,Furnishings,Area Rug 5x7,1,0,237.9,37.34
+ORD-1744,2024-02-16,2024-02-22,First Class,Consumer,Central,Texas,Office Supplies,Paper,Recycled Notebook Pack,2,0,104.45,13.95
+ORD-1745,2023-03-10,2023-03-12,Second Class,Corporate,South,Alabama,Technology,Copiers,Office Copier Pro,6,0.15,1406.86,290.75
+ORD-1746,2023-04-08,2023-04-13,Same Day,Consumer,Central,Missouri,Technology,Accessories,Wireless Mouse,2,0.2,434.09,41.8
+ORD-1747,2023-12-10,2023-12-11,Standard Class,Corporate,South,Louisiana,Technology,Accessories,Laptop Sleeve,5,0.2,1224.84,-49.26
+ORD-1748,2023-08-31,2023-09-06,Same Day,Consumer,South,Tennessee,Technology,Phones,Wireless Headset,2,0,461.61,51.06
+ORD-1749,2024-10-19,2024-10-20,Same Day,Home Office,West,Nevada,Office Supplies,Art,Acrylic Paint Set,3,0,155.32,43.2
+ORD-1750,2023-10-23,2023-10-30,Second Class,Home Office,East,Florida,Technology,Machines,Portable Scanner,2,0,474.11,152.66
+ORD-1751,2024-12-13,2024-12-19,Same Day,Consumer,West,Nevada,Office Supplies,Appliances,Label Printer,2,0.1,92.41,-0.98
+ORD-1752,2023-07-17,2023-07-18,Second Class,Home Office,West,Washington,Furniture,Chairs,Ergonomic Office Chair,5,0.15,1525.41,319.64
+ORD-1753,2023-03-22,2023-03-26,Same Day,Home Office,South,Alabama,Furniture,Tables,Oak Coffee Table,4,0,1258.99,177.43
+ORD-1754,2023-07-26,2023-07-29,Same Day,Consumer,South,North Carolina,Office Supplies,Storage,Desk Drawer Unit,2,0.1,81.73,9.94
+ORD-1755,2024-05-08,2024-05-09,Same Day,Corporate,South,Louisiana,Furniture,Bookcases,Wall-Mount Shelf,5,0,1521.8,156.3
+ORD-1756,2023-11-10,2023-11-14,Second Class,Consumer,Central,Missouri,Technology,Copiers,Office Copier Pro,3,0,792.27,86.13
+ORD-1757,2023-01-14,2023-01-21,Standard Class,Corporate,Central,Missouri,Office Supplies,Storage,Desk Drawer Unit,6,0,261.58,37.23
+ORD-1758,2023-02-09,2023-02-10,Same Day,Home Office,South,Kentucky,Furniture,Tables,Standing Desk,3,0.3,787.43,21.0
+ORD-1759,2024-12-06,2024-12-09,Standard Class,Home Office,East,Georgia,Office Supplies,Paper,A4 Copy Paper 500ct,4,0,242.11,38.36
+ORD-1760,2024-11-12,2024-11-18,Second Class,Consumer,West,Oregon,Technology,Copiers,Office Copier Pro,3,0,740.19,248.36
+ORD-1761,2023-04-30,2023-05-07,Same Day,Corporate,East,Georgia,Office Supplies,Appliances,Paper Shredder,5,0,295.47,29.47
+ORD-1762,2024-12-09,2024-12-12,Second Class,Corporate,South,Kentucky,Office Supplies,Storage,File Organizer Box,1,0.2,39.63,5.12
+ORD-1763,2023-08-03,2023-08-09,Same Day,Home Office,South,Alabama,Furniture,Tables,Standing Desk,1,0,209.69,54.29
+ORD-1764,2023-10-23,2023-10-29,Standard Class,Corporate,South,Tennessee,Furniture,Bookcases,5-Shelf Bookcase,6,0,1408.87,147.36
+ORD-1765,2024-08-03,2024-08-10,Same Day,Corporate,West,Washington,Furniture,Chairs,Mesh Task Chair,2,0.3,482.71,-54.16
+ORD-1766,2024-10-03,2024-10-08,Second Class,Corporate,East,Florida,Furniture,Bookcases,5-Shelf Bookcase,4,0,1000.98,152.8
+ORD-1767,2024-05-11,2024-05-17,Second Class,Home Office,East,New York,Furniture,Bookcases,5-Shelf Bookcase,6,0.15,1788.49,-102.73
+ORD-1768,2023-01-08,2023-01-12,First Class,Consumer,Central,Missouri,Office Supplies,Art,Sketchbook A3,3,0,158.94,24.31
+ORD-1769,2024-01-05,2024-01-11,Same Day,Home Office,South,Louisiana,Technology,Phones,Smartphone Stand,3,0.3,355.8,-18.83
+ORD-1770,2023-05-23,2023-05-24,Same Day,Home Office,East,Virginia,Office Supplies,Paper,Recycled Notebook Pack,4,0.15,180.59,34.48
+ORD-1771,2023-07-12,2023-07-13,Same Day,Corporate,Central,Texas,Technology,Machines,Laser Printer,6,0,1550.41,186.15
+ORD-1772,2024-09-19,2024-09-26,Second Class,Home Office,East,Pennsylvania,Office Supplies,Storage,File Organizer Box,6,0.1,220.09,6.28
+ORD-1773,2024-08-08,2024-08-15,Same Day,Consumer,East,Florida,Office Supplies,Binders,3-Ring Binder Pack,6,0.15,319.25,22.36
+ORD-1774,2024-05-08,2024-05-14,Standard Class,Consumer,West,Washington,Furniture,Tables,Folding Conference Table,6,0,1300.03,452.42
+ORD-1775,2023-12-01,2023-12-05,Same Day,Consumer,Central,Illinois,Technology,Machines,Portable Scanner,6,0,1538.9,502.94
+ORD-1776,2024-12-09,2024-12-12,Same Day,Consumer,West,Nevada,Technology,Phones,Smartphone Stand,4,0.2,858.93,92.34
+ORD-1777,2023-08-17,2023-08-20,Standard Class,Home Office,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,3,0.2,748.97,-40.11
+ORD-1778,2024-01-12,2024-01-14,Same Day,Corporate,Central,Missouri,Technology,Phones,Smartphone Stand,1,0.15,201.01,37.01
+ORD-1779,2024-01-09,2024-01-16,Second Class,Corporate,West,Nevada,Technology,Accessories,USB-C Hub,4,0,947.59,178.32
+ORD-1780,2023-08-13,2023-08-17,Standard Class,Home Office,South,Tennessee,Technology,Machines,Laser Printer,6,0.2,1366.88,189.07
+ORD-1781,2023-11-24,2023-11-27,First Class,Consumer,East,Pennsylvania,Technology,Copiers,Office Copier Pro,4,0,1049.75,171.12
+ORD-1782,2023-08-04,2023-08-11,Second Class,Consumer,West,California,Furniture,Furnishings,Wall Clock,4,0,1555.76,385.48
+ORD-1783,2024-07-15,2024-07-19,First Class,Home Office,Central,Missouri,Technology,Copiers,Compact Copier,4,0.1,594.22,111.73
+ORD-1784,2023-07-19,2023-07-25,Second Class,Home Office,South,North Carolina,Furniture,Bookcases,Wall-Mount Shelf,1,0.3,265.42,-26.22
+ORD-1785,2023-05-21,2023-05-25,Standard Class,Home Office,South,Alabama,Furniture,Tables,Oak Coffee Table,6,0,2040.74,107.63
+ORD-1786,2023-06-01,2023-06-05,First Class,Home Office,South,Tennessee,Furniture,Chairs,Wooden Dining Chair,4,0,1524.93,129.93
+ORD-1787,2024-03-20,2024-03-22,Second Class,Home Office,South,Tennessee,Furniture,Chairs,Ergonomic Office Chair,4,0.1,919.18,136.82
+ORD-1788,2024-01-20,2024-01-27,Standard Class,Consumer,East,Georgia,Technology,Copiers,Compact Copier,6,0.2,1068.23,-113.79
+ORD-1789,2023-05-05,2023-05-09,Same Day,Corporate,West,California,Technology,Copiers,Compact Copier,6,0.2,809.09,54.91
+ORD-1790,2024-10-22,2024-10-28,Second Class,Corporate,South,Alabama,Technology,Accessories,USB-C Hub,3,0,791.76,244.39
+ORD-1791,2024-12-18,2024-12-19,Standard Class,Consumer,South,Kentucky,Technology,Copiers,Office Copier Pro,5,0.3,854.16,20.61
+ORD-1792,2024-11-05,2024-11-06,Second Class,Home Office,West,Nevada,Technology,Accessories,USB-C Hub,5,0.1,1247.76,8.63
+ORD-1793,2023-07-31,2023-08-06,Second Class,Corporate,West,California,Technology,Machines,Laser Printer,1,0,231.95,36.9
+ORD-1794,2024-11-04,2024-11-05,First Class,Home Office,West,Oregon,Furniture,Bookcases,Wall-Mount Shelf,5,0.1,1005.35,117.76
+ORD-1795,2023-12-27,2024-01-01,Second Class,Consumer,West,California,Technology,Phones,Wireless Headset,1,0,175.82,53.95
+ORD-1796,2024-09-08,2024-09-13,First Class,Corporate,West,Nevada,Office Supplies,Art,Acrylic Paint Set,6,0.15,228.45,21.69
+ORD-1797,2024-10-27,2024-10-29,First Class,Home Office,South,Louisiana,Furniture,Bookcases,Wall-Mount Shelf,4,0.2,717.04,-35.04
+ORD-1798,2024-12-14,2024-12-20,Standard Class,Home Office,West,Oregon,Technology,Accessories,Wireless Mouse,2,0,613.67,110.51
+ORD-1799,2023-09-11,2023-09-12,First Class,Corporate,Central,Texas,Technology,Phones,Smartphone Stand,1,0,252.59,40.12
+ORD-1800,2023-05-30,2023-06-06,Standard Class,Consumer,West,Oregon,Furniture,Chairs,Wooden Dining Chair,2,0.1,688.59,141.04
+ORD-1801,2024-06-23,2024-06-29,Standard Class,Consumer,Central,Colorado,Office Supplies,Binders,3-Ring Binder Pack,6,0.15,299.68,28.61
+ORD-1802,2023-06-24,2023-06-27,Second Class,Home Office,South,Tennessee,Office Supplies,Appliances,Label Printer,4,0.15,120.76,-8.11
+ORD-1803,2023-05-10,2023-05-12,Second Class,Home Office,South,Kentucky,Technology,Machines,Laser Printer,6,0.2,1459.55,149.24
+ORD-1804,2024-09-15,2024-09-19,Second Class,Corporate,South,Tennessee,Office Supplies,Art,Sketchbook A3,5,0,200.94,35.83
+ORD-1805,2024-10-12,2024-10-19,Standard Class,Consumer,East,Pennsylvania,Office Supplies,Art,Acrylic Paint Set,6,0,203.5,24.83
+ORD-1806,2024-08-12,2024-08-13,Same Day,Corporate,East,Pennsylvania,Technology,Copiers,Office Copier Pro,4,0.2,743.48,81.22
+ORD-1807,2024-06-11,2024-06-17,First Class,Consumer,East,Georgia,Furniture,Tables,Folding Conference Table,1,0.2,223.44,11.24
+ORD-1808,2024-11-08,2024-11-15,First Class,Consumer,East,Virginia,Office Supplies,Paper,A4 Copy Paper 500ct,2,0,86.12,7.75
+ORD-1809,2024-03-08,2024-03-12,Standard Class,Corporate,South,Tennessee,Office Supplies,Binders,3-Ring Binder Pack,6,0,346.2,105.67
+ORD-1810,2023-11-03,2023-11-07,Standard Class,Corporate,Central,Ohio,Furniture,Chairs,Mesh Task Chair,6,0.15,1393.06,288.25
+ORD-1811,2024-09-24,2024-10-01,Second Class,Corporate,South,North Carolina,Office Supplies,Binders,3-Ring Binder Pack,3,0,127.94,6.59
+ORD-1812,2023-12-30,2023-12-31,Same Day,Consumer,East,Georgia,Office Supplies,Paper,A4 Copy Paper 500ct,5,0.15,254.16,13.53
+ORD-1813,2023-06-09,2023-06-16,First Class,Consumer,Central,Illinois,Office Supplies,Storage,Desk Drawer Unit,3,0,134.98,14.13
+ORD-1814,2024-03-25,2024-03-31,Second Class,Consumer,South,Tennessee,Furniture,Bookcases,Wall-Mount Shelf,4,0,1065.64,331.58
+ORD-1815,2023-07-14,2023-07-17,First Class,Consumer,East,Florida,Office Supplies,Storage,Desk Drawer Unit,1,0,52.49,17.56
+ORD-1816,2024-03-07,2024-03-11,Second Class,Consumer,South,Tennessee,Office Supplies,Storage,Desk Drawer Unit,2,0,123.33,35.5
+ORD-1817,2023-12-19,2023-12-24,First Class,Corporate,East,Florida,Furniture,Bookcases,Corner Bookshelf,5,0.2,790.29,26.92
+ORD-1818,2023-03-26,2023-04-02,First Class,Home Office,South,Tennessee,Technology,Accessories,Laptop Sleeve,5,0,962.09,269.4
+ORD-1819,2023-09-11,2023-09-17,Second Class,Consumer,South,Tennessee,Office Supplies,Binders,Leather Binder Set,2,0.3,70.17,0.02
+ORD-1820,2023-05-16,2023-05-20,Same Day,Corporate,East,Pennsylvania,Furniture,Tables,Standing Desk,1,0.15,199.86,37.83
+ORD-1821,2024-06-21,2024-06-24,Standard Class,Corporate,West,Washington,Office Supplies,Storage,Desk Drawer Unit,1,0.15,38.21,-2.08
+ORD-1822,2024-01-08,2024-01-11,First Class,Consumer,Central,Missouri,Furniture,Bookcases,5-Shelf Bookcase,2,0,392.21,97.32
+ORD-1823,2023-10-20,2023-10-24,Standard Class,Home Office,Central,Colorado,Furniture,Furnishings,Floor Lamp,3,0.1,721.61,44.24
+ORD-1824,2023-01-14,2023-01-20,Standard Class,Consumer,West,Oregon,Office Supplies,Art,Sketchbook A3,2,0.2,64.31,4.2
+ORD-1825,2023-05-14,2023-05-20,First Class,Corporate,East,New York,Technology,Accessories,USB-C Hub,6,0.1,1601.25,-12.07
+ORD-1826,2024-04-30,2024-05-07,First Class,Corporate,West,Nevada,Technology,Accessories,USB-C Hub,2,0,436.81,115.09
+ORD-1827,2024-04-04,2024-04-10,First Class,Home Office,East,Georgia,Furniture,Furnishings,Area Rug 5x7,5,0.15,1491.81,-29.72
+ORD-1828,2023-05-13,2023-05-16,Standard Class,Consumer,East,Virginia,Furniture,Tables,Folding Conference Table,4,0.1,1188.72,274.69
+ORD-1829,2024-03-24,2024-03-31,Standard Class,Home Office,South,Kentucky,Office Supplies,Storage,Desk Drawer Unit,2,0,63.23,14.01
+ORD-1830,2024-04-11,2024-04-16,Second Class,Corporate,Central,Ohio,Furniture,Bookcases,Wall-Mount Shelf,3,0.15,559.33,-1.58
+ORD-1831,2023-02-10,2023-02-16,Standard Class,Consumer,West,Oregon,Furniture,Bookcases,5-Shelf Bookcase,6,0,2339.69,264.37
+ORD-1832,2024-10-26,2024-10-29,Standard Class,Home Office,Central,Ohio,Furniture,Bookcases,Wall-Mount Shelf,2,0.1,669.73,39.16
+ORD-1833,2023-01-11,2023-01-18,Standard Class,Home Office,Central,Illinois,Technology,Machines,Laser Printer,3,0,710.27,244.07
+ORD-1834,2024-12-05,2024-12-09,Same Day,Consumer,Central,Colorado,Technology,Accessories,Wireless Mouse,2,0,390.79,87.73
+ORD-1835,2024-04-01,2024-04-03,Second Class,Consumer,South,Alabama,Furniture,Furnishings,Floor Lamp,4,0,1144.16,337.16
+ORD-1836,2024-08-06,2024-08-10,Standard Class,Consumer,West,Oregon,Furniture,Bookcases,5-Shelf Bookcase,2,0.3,382.57,-2.93
+ORD-1837,2023-03-15,2023-03-19,Standard Class,Home Office,West,Arizona,Technology,Copiers,Office Copier Pro,6,0.15,893.23,138.57
+ORD-1838,2023-04-13,2023-04-17,Second Class,Home Office,South,North Carolina,Furniture,Chairs,Mesh Task Chair,1,0,244.68,18.37
+ORD-1839,2024-09-06,2024-09-07,Same Day,Consumer,East,New York,Technology,Machines,Laser Printer,2,0,455.97,99.79
+ORD-1840,2023-11-11,2023-11-14,Standard Class,Consumer,South,Tennessee,Furniture,Chairs,Mesh Task Chair,6,0,1913.92,166.36
+ORD-1841,2024-07-11,2024-07-14,First Class,Home Office,East,Virginia,Office Supplies,Paper,A4 Copy Paper 500ct,2,0,77.28,12.8
+ORD-1842,2023-10-21,2023-10-23,Standard Class,Home Office,South,North Carolina,Office Supplies,Paper,A4 Copy Paper 500ct,2,0,123.26,16.58
+ORD-1843,2023-12-08,2023-12-09,Same Day,Consumer,Central,Texas,Furniture,Tables,Oak Coffee Table,4,0.15,889.54,-13.87
+ORD-1844,2024-11-14,2024-11-20,Standard Class,Consumer,Central,Colorado,Office Supplies,Art,Acrylic Paint Set,3,0.1,141.33,35.31
+ORD-1845,2023-06-02,2023-06-09,Standard Class,Consumer,West,Oregon,Furniture,Furnishings,Area Rug 5x7,6,0.3,1469.86,-68.3
+ORD-1846,2024-08-14,2024-08-18,Same Day,Corporate,Central,Illinois,Furniture,Bookcases,5-Shelf Bookcase,2,0.3,380.05,-35.8
+ORD-1847,2024-12-11,2024-12-15,Second Class,Corporate,Central,Illinois,Technology,Accessories,Wireless Mouse,4,0.15,783.88,70.65
+ORD-1848,2023-03-27,2023-04-01,Standard Class,Corporate,South,Kentucky,Technology,Accessories,Laptop Sleeve,1,0,209.7,23.27
+ORD-1849,2024-07-25,2024-07-29,Same Day,Consumer,West,California,Furniture,Bookcases,Corner Bookshelf,2,0,572.47,172.07
+ORD-1850,2023-08-04,2023-08-11,Same Day,Corporate,West,California,Technology,Accessories,USB-C Hub,6,0.2,844.96,92.88
+ORD-1851,2023-02-25,2023-03-03,Second Class,Consumer,East,Virginia,Furniture,Furnishings,Wall Clock,2,0,449.58,41.53
+ORD-1852,2023-01-13,2023-01-18,Same Day,Corporate,South,Tennessee,Furniture,Furnishings,Wall Clock,2,0.2,479.01,83.65
+ORD-1853,2023-12-12,2023-12-16,Second Class,Consumer,East,Pennsylvania,Furniture,Tables,Oak Coffee Table,6,0,1886.51,192.56
+ORD-1854,2024-02-10,2024-02-17,Standard Class,Home Office,South,Louisiana,Technology,Machines,Portable Scanner,6,0,1315.47,127.65
+ORD-1855,2024-01-22,2024-01-24,Standard Class,Home Office,West,Arizona,Technology,Phones,Wireless Headset,4,0,1122.66,384.84
+ORD-1856,2024-04-24,2024-04-28,Standard Class,Consumer,Central,Missouri,Office Supplies,Paper,A4 Copy Paper 500ct,3,0.2,107.67,-3.13
+ORD-1857,2024-01-07,2024-01-12,First Class,Consumer,Central,Texas,Furniture,Bookcases,5-Shelf Bookcase,5,0,1044.01,239.22
+ORD-1858,2024-07-18,2024-07-20,Standard Class,Corporate,East,Florida,Office Supplies,Binders,Leather Binder Set,5,0.3,163.59,-28.72
+ORD-1859,2023-01-09,2023-01-12,Standard Class,Corporate,Central,Missouri,Technology,Accessories,Wireless Mouse,4,0.2,668.16,-47.54
+ORD-1860,2024-02-22,2024-02-28,First Class,Consumer,East,Virginia,Furniture,Chairs,Mesh Task Chair,4,0.1,1119.33,252.53
+ORD-1861,2023-06-05,2023-06-11,Second Class,Home Office,South,North Carolina,Technology,Phones,Wireless Headset,2,0.3,362.52,-53.56
+ORD-1862,2024-06-12,2024-06-18,Same Day,Consumer,Central,Missouri,Furniture,Bookcases,Corner Bookshelf,3,0.15,927.61,54.98
+ORD-1863,2023-08-02,2023-08-07,Standard Class,Corporate,East,Florida,Technology,Copiers,Office Copier Pro,1,0,272.01,38.86
+ORD-1864,2023-04-07,2023-04-11,Second Class,Home Office,Central,Illinois,Office Supplies,Paper,A4 Copy Paper 500ct,3,0.15,109.51,-4.73
+ORD-1865,2024-04-16,2024-04-19,Same Day,Corporate,South,Alabama,Office Supplies,Paper,A4 Copy Paper 500ct,5,0.1,147.36,33.55
+ORD-1866,2024-09-26,2024-10-02,First Class,Home Office,West,Arizona,Office Supplies,Appliances,Label Printer,3,0,158.97,32.08
+ORD-1867,2023-02-13,2023-02-18,Standard Class,Consumer,East,Florida,Technology,Phones,Wireless Headset,1,0,211.88,46.83
+ORD-1868,2024-02-02,2024-02-09,Standard Class,Consumer,South,North Carolina,Office Supplies,Storage,Desk Drawer Unit,6,0.15,305.26,21.2
+ORD-1869,2023-04-21,2023-04-25,Same Day,Consumer,South,Tennessee,Office Supplies,Art,Acrylic Paint Set,3,0,188.66,36.96
+ORD-1870,2023-10-13,2023-10-17,Same Day,Consumer,East,Virginia,Furniture,Furnishings,Floor Lamp,6,0,1552.54,92.22
+ORD-1871,2024-01-06,2024-01-13,Second Class,Consumer,South,Louisiana,Furniture,Chairs,Ergonomic Office Chair,1,0.3,231.0,-25.19
+ORD-1872,2023-05-26,2023-05-27,First Class,Consumer,Central,Missouri,Furniture,Bookcases,Wall-Mount Shelf,4,0.3,779.14,-97.99
+ORD-1873,2023-02-25,2023-02-26,Second Class,Home Office,South,Alabama,Office Supplies,Paper,A4 Copy Paper 500ct,3,0.1,126.01,16.46
+ORD-1874,2024-03-23,2024-03-26,First Class,Consumer,South,North Carolina,Technology,Accessories,USB-C Hub,6,0.2,1166.82,-77.73
+ORD-1875,2023-06-04,2023-06-08,Second Class,Home Office,West,Arizona,Office Supplies,Binders,3-Ring Binder Pack,3,0.15,138.34,31.33
+ORD-1876,2024-04-05,2024-04-11,Second Class,Corporate,East,New York,Furniture,Tables,Standing Desk,6,0.15,1773.67,195.61
+ORD-1877,2023-08-03,2023-08-05,Same Day,Home Office,East,Pennsylvania,Office Supplies,Binders,3-Ring Binder Pack,3,0.15,146.12,-4.76
+ORD-1878,2024-04-11,2024-04-15,Same Day,Corporate,South,Alabama,Office Supplies,Appliances,Label Printer,5,0.3,147.27,12.95
+ORD-1879,2024-01-18,2024-01-20,Standard Class,Consumer,West,Nevada,Office Supplies,Storage,Desk Drawer Unit,6,0.2,254.06,20.38
+ORD-1880,2023-04-17,2023-04-18,Same Day,Home Office,East,Virginia,Office Supplies,Binders,3-Ring Binder Pack,6,0.3,214.83,-5.71
+ORD-1881,2024-08-18,2024-08-25,Same Day,Consumer,East,Pennsylvania,Office Supplies,Paper,A4 Copy Paper 500ct,4,0.15,147.91,-1.68
+ORD-1882,2023-12-26,2024-01-02,First Class,Corporate,South,Louisiana,Technology,Copiers,Office Copier Pro,3,0.3,395.82,-41.53
+ORD-1883,2024-02-29,2024-03-06,First Class,Corporate,West,California,Office Supplies,Binders,Leather Binder Set,1,0,56.4,17.05
+ORD-1884,2023-06-24,2023-06-29,Same Day,Consumer,South,Tennessee,Technology,Copiers,Office Copier Pro,5,0.2,858.28,-81.13
+ORD-1885,2024-10-13,2024-10-17,Standard Class,Home Office,West,Arizona,Office Supplies,Appliances,Paper Shredder,4,0,138.55,40.23
+ORD-1886,2024-08-13,2024-08-20,Second Class,Consumer,South,Alabama,Technology,Accessories,Wireless Mouse,2,0,336.73,61.02
+ORD-1887,2024-09-24,2024-09-30,Second Class,Home Office,East,Virginia,Office Supplies,Binders,Leather Binder Set,4,0.2,164.46,-0.42
+ORD-1888,2023-08-16,2023-08-19,Standard Class,Home Office,West,Nevada,Furniture,Furnishings,Area Rug 5x7,6,0,1499.36,495.53
+ORD-1889,2024-08-16,2024-08-23,Standard Class,Consumer,East,New York,Office Supplies,Appliances,Paper Shredder,1,0,40.4,12.86
+ORD-1890,2024-05-21,2024-05-28,Standard Class,Consumer,Central,Illinois,Office Supplies,Binders,3-Ring Binder Pack,1,0.1,30.44,7.85
+ORD-1891,2024-12-04,2024-12-08,Standard Class,Consumer,South,Alabama,Technology,Copiers,Office Copier Pro,2,0,311.12,32.23
+ORD-1892,2023-12-18,2023-12-21,Standard Class,Home Office,South,Kentucky,Technology,Phones,Wireless Headset,5,0.2,772.77,-56.82
+ORD-1893,2023-01-24,2023-01-29,Second Class,Corporate,West,Washington,Office Supplies,Binders,Leather Binder Set,1,0,35.86,2.69
+ORD-1894,2023-10-08,2023-10-12,Same Day,Consumer,West,California,Office Supplies,Appliances,Label Printer,4,0.2,182.35,3.8
+ORD-1895,2023-09-14,2023-09-16,Same Day,Corporate,West,Oregon,Office Supplies,Binders,3-Ring Binder Pack,2,0.3,53.18,1.42
+ORD-1896,2024-03-09,2024-03-14,Standard Class,Corporate,Central,Ohio,Technology,Phones,Smartphone Stand,4,0,965.36,156.57
+ORD-1897,2023-06-21,2023-06-22,Same Day,Consumer,Central,Colorado,Office Supplies,Art,Sketchbook A3,4,0,140.45,41.11
+ORD-1898,2024-01-02,2024-01-04,Standard Class,Home Office,East,Florida,Technology,Machines,Portable Scanner,2,0.3,283.4,-53.03
+ORD-1899,2023-12-03,2023-12-05,Standard Class,Home Office,South,Kentucky,Office Supplies,Paper,A4 Copy Paper 500ct,4,0,201.83,42.02
+ORD-1900,2023-10-12,2023-10-18,Same Day,Corporate,East,Virginia,Technology,Copiers,Compact Copier,3,0.3,426.93,-55.87
+ORD-1901,2023-02-17,2023-02-20,Standard Class,Corporate,South,North Carolina,Furniture,Furnishings,Floor Lamp,5,0,1559.35,188.57
+ORD-1902,2023-01-19,2023-01-25,Standard Class,Consumer,East,Georgia,Office Supplies,Paper,Recycled Notebook Pack,1,0.15,51.36,-2.99
+ORD-1903,2024-04-26,2024-04-27,Standard Class,Corporate,South,Alabama,Office Supplies,Art,Sketchbook A3,4,0,196.11,28.23
+ORD-1904,2023-11-02,2023-11-08,Standard Class,Consumer,South,Louisiana,Technology,Phones,Smartphone Stand,5,0,792.55,51.0
+ORD-1905,2023-04-18,2023-04-21,Standard Class,Home Office,South,Tennessee,Furniture,Chairs,Ergonomic Office Chair,6,0.3,1126.86,91.12
+ORD-1906,2023-02-23,2023-02-26,Same Day,Corporate,East,New York,Furniture,Bookcases,5-Shelf Bookcase,3,0,992.5,285.33
+ORD-1907,2024-12-16,2024-12-18,Same Day,Home Office,West,Nevada,Office Supplies,Binders,Leather Binder Set,3,0.3,75.94,-1.12
+ORD-1908,2024-04-02,2024-04-08,Same Day,Consumer,East,Virginia,Technology,Accessories,Laptop Sleeve,4,0.2,734.32,-18.97
+ORD-1909,2023-04-05,2023-04-08,Standard Class,Consumer,Central,Texas,Office Supplies,Appliances,Paper Shredder,6,0.2,262.37,-12.65
+ORD-1910,2024-05-21,2024-05-22,First Class,Corporate,West,California,Technology,Accessories,Wireless Mouse,4,0,916.39,139.42
+ORD-1911,2024-12-26,2024-12-30,Second Class,Corporate,West,Nevada,Furniture,Tables,Oak Coffee Table,3,0.1,1045.2,240.77
+ORD-1912,2023-07-12,2023-07-13,Standard Class,Consumer,Central,Missouri,Furniture,Bookcases,Wall-Mount Shelf,6,0,1349.21,422.11
+ORD-1913,2023-01-17,2023-01-21,Standard Class,Corporate,West,Oregon,Furniture,Furnishings,Wall Clock,5,0.1,1192.43,6.56
+ORD-1914,2024-03-17,2024-03-19,Same Day,Home Office,West,Arizona,Technology,Copiers,Compact Copier,1,0.1,176.38,-0.12
+ORD-1915,2024-03-08,2024-03-10,Standard Class,Home Office,Central,Illinois,Office Supplies,Paper,Recycled Notebook Pack,5,0.15,199.96,12.01
+ORD-1916,2023-09-12,2023-09-13,Second Class,Home Office,West,California,Furniture,Chairs,Mesh Task Chair,3,0,626.72,50.33
+ORD-1917,2024-12-17,2024-12-23,Second Class,Consumer,South,Louisiana,Office Supplies,Binders,Leather Binder Set,6,0.3,248.66,-27.23
+ORD-1918,2023-07-28,2023-07-31,First Class,Home Office,Central,Colorado,Office Supplies,Binders,Leather Binder Set,2,0.15,102.16,11.92
+ORD-1919,2023-09-02,2023-09-04,Same Day,Corporate,Central,Texas,Furniture,Tables,Standing Desk,4,0,1538.4,384.31
+ORD-1920,2023-01-22,2023-01-24,Second Class,Corporate,Central,Texas,Furniture,Chairs,Mesh Task Chair,3,0.1,837.81,97.6
+ORD-1921,2023-04-23,2023-04-24,Standard Class,Consumer,East,Virginia,Technology,Machines,Laser Printer,5,0.15,764.0,-19.88
+ORD-1922,2023-11-08,2023-11-15,First Class,Corporate,Central,Missouri,Office Supplies,Art,Sketchbook A3,6,0.1,213.23,22.95
+ORD-1923,2024-12-28,2024-12-31,Second Class,Corporate,South,North Carolina,Office Supplies,Appliances,Paper Shredder,2,0.1,105.25,17.66
+ORD-1924,2024-05-24,2024-05-25,Same Day,Home Office,West,Nevada,Technology,Copiers,Compact Copier,2,0.2,268.4,44.61
+ORD-1925,2023-04-21,2023-04-24,First Class,Corporate,South,Kentucky,Furniture,Bookcases,Wall-Mount Shelf,3,0,817.92,143.29
+ORD-1926,2023-07-15,2023-07-16,Standard Class,Corporate,Central,Colorado,Furniture,Furnishings,Area Rug 5x7,5,0.3,1229.55,-127.23
+ORD-1927,2024-12-02,2024-12-04,Standard Class,Corporate,South,Tennessee,Technology,Machines,Laser Printer,3,0.1,535.66,112.45
+ORD-1928,2023-02-11,2023-02-13,Standard Class,Consumer,Central,Colorado,Furniture,Chairs,Wooden Dining Chair,3,0,841.03,208.64
+ORD-1929,2023-09-15,2023-09-17,Same Day,Home Office,Central,Ohio,Technology,Accessories,USB-C Hub,6,0,1055.8,284.98
+ORD-1930,2023-03-24,2023-03-27,Standard Class,Corporate,West,California,Office Supplies,Art,Acrylic Paint Set,6,0.2,209.6,2.04
+ORD-1931,2023-11-06,2023-11-11,Second Class,Corporate,Central,Illinois,Technology,Copiers,Compact Copier,5,0,1296.16,142.39
+ORD-1932,2024-07-21,2024-07-23,Same Day,Consumer,Central,Ohio,Furniture,Bookcases,Wall-Mount Shelf,6,0.1,1636.11,135.45
+ORD-1933,2023-05-22,2023-05-27,Same Day,Consumer,South,Alabama,Technology,Machines,Portable Scanner,3,0.1,609.79,157.59
+ORD-1934,2024-07-26,2024-07-27,First Class,Consumer,South,North Carolina,Furniture,Bookcases,5-Shelf Bookcase,5,0.15,1143.8,132.99
+ORD-1935,2024-02-07,2024-02-09,Standard Class,Corporate,South,North Carolina,Office Supplies,Appliances,Label Printer,1,0,33.22,9.93
+ORD-1936,2024-08-31,2024-09-01,Standard Class,Home Office,Central,Colorado,Office Supplies,Art,Acrylic Paint Set,1,0.2,39.93,1.73
+ORD-1937,2023-07-29,2023-08-03,First Class,Home Office,West,Nevada,Technology,Copiers,Office Copier Pro,2,0.2,404.01,-25.68
+ORD-1938,2023-01-07,2023-01-14,Standard Class,Consumer,South,Kentucky,Technology,Accessories,USB-C Hub,1,0,177.57,55.75
+ORD-1939,2023-07-29,2023-07-30,Second Class,Consumer,South,North Carolina,Technology,Copiers,Compact Copier,1,0,200.19,39.06
+ORD-1940,2024-07-13,2024-07-16,Second Class,Consumer,South,Kentucky,Furniture,Furnishings,Floor Lamp,6,0,1393.33,411.82
+ORD-1941,2024-06-07,2024-06-13,First Class,Corporate,West,Arizona,Office Supplies,Art,Sketchbook A3,6,0,370.27,73.27
+ORD-1942,2024-01-31,2024-02-06,Standard Class,Home Office,East,Georgia,Office Supplies,Storage,File Organizer Box,1,0,45.9,10.06
+ORD-1943,2023-11-07,2023-11-08,First Class,Home Office,South,North Carolina,Office Supplies,Paper,Recycled Notebook Pack,6,0.1,217.2,57.46
+ORD-1944,2024-05-30,2024-06-01,First Class,Corporate,Central,Colorado,Office Supplies,Appliances,Paper Shredder,2,0.2,58.03,5.04
+ORD-1945,2023-05-24,2023-05-27,First Class,Consumer,Central,Missouri,Furniture,Furnishings,Area Rug 5x7,4,0.15,1105.54,113.66
+ORD-1946,2024-12-15,2024-12-18,Standard Class,Home Office,Central,Colorado,Technology,Copiers,Office Copier Pro,1,0,285.21,27.88
+ORD-1947,2023-04-19,2023-04-23,Same Day,Consumer,South,Alabama,Furniture,Tables,Oak Coffee Table,2,0.2,593.48,69.29
+ORD-1948,2023-03-05,2023-03-10,Second Class,Corporate,Central,Texas,Furniture,Chairs,Wooden Dining Chair,3,0.15,815.32,-49.87
+ORD-1949,2023-04-21,2023-04-27,Second Class,Home Office,South,Louisiana,Furniture,Tables,Oak Coffee Table,3,0.1,760.73,42.47
+ORD-1950,2023-06-15,2023-06-19,First Class,Corporate,West,California,Technology,Phones,Wireless Headset,2,0,557.48,177.27
+ORD-1951,2024-08-04,2024-08-09,First Class,Home Office,East,Pennsylvania,Furniture,Furnishings,Floor Lamp,2,0.15,608.95,48.87
+ORD-1952,2024-07-26,2024-08-02,First Class,Consumer,West,California,Office Supplies,Storage,Desk Drawer Unit,1,0.15,28.87,4.76
+ORD-1953,2023-05-01,2023-05-05,First Class,Corporate,West,California,Technology,Machines,Laser Printer,2,0.3,418.4,36.27
+ORD-1954,2024-12-21,2024-12-24,Standard Class,Home Office,East,Florida,Office Supplies,Binders,Leather Binder Set,5,0.15,200.82,9.99
+ORD-1955,2024-12-15,2024-12-16,Standard Class,Consumer,South,Alabama,Technology,Phones,Wireless Headset,3,0.1,524.27,36.89
+ORD-1956,2023-07-29,2023-08-03,Standard Class,Corporate,Central,Texas,Furniture,Furnishings,Floor Lamp,5,0.15,1418.67,226.52
+ORD-1957,2023-03-14,2023-03-18,Second Class,Home Office,East,Virginia,Office Supplies,Paper,Recycled Notebook Pack,6,0,208.67,41.52
+ORD-1958,2023-12-25,2023-12-29,Same Day,Home Office,South,Alabama,Furniture,Chairs,Ergonomic Office Chair,1,0.3,244.47,-32.06
+ORD-1959,2024-12-01,2024-12-07,Second Class,Consumer,East,Virginia,Office Supplies,Binders,3-Ring Binder Pack,4,0.2,113.42,11.39
+ORD-1960,2024-03-24,2024-03-25,Second Class,Corporate,Central,Ohio,Furniture,Bookcases,Corner Bookshelf,1,0,241.48,54.72
+ORD-1961,2024-07-03,2024-07-08,Standard Class,Corporate,East,New York,Technology,Accessories,USB-C Hub,1,0,173.51,18.08
+ORD-1962,2023-12-25,2023-12-30,Second Class,Corporate,West,Oregon,Furniture,Furnishings,Area Rug 5x7,6,0,1948.15,142.05
+ORD-1963,2024-12-23,2024-12-29,First Class,Corporate,Central,Illinois,Office Supplies,Art,Sketchbook A3,5,0,294.36,36.28
+ORD-1964,2024-12-15,2024-12-20,Second Class,Corporate,East,New York,Office Supplies,Storage,Desk Drawer Unit,3,0,113.74,10.37
+ORD-1965,2024-07-20,2024-07-22,Standard Class,Consumer,East,Pennsylvania,Technology,Accessories,USB-C Hub,2,0.2,354.88,42.32
+ORD-1966,2024-05-25,2024-06-01,Same Day,Corporate,East,Pennsylvania,Office Supplies,Appliances,Label Printer,3,0.3,129.99,-22.37
+ORD-1967,2023-01-20,2023-01-27,Standard Class,Home Office,South,Louisiana,Office Supplies,Binders,Leather Binder Set,2,0.1,67.16,6.67
+ORD-1968,2023-11-09,2023-11-10,Same Day,Corporate,Central,Texas,Technology,Machines,Portable Scanner,5,0,1353.08,206.05
+ORD-1969,2023-02-28,2023-03-07,First Class,Consumer,East,Virginia,Office Supplies,Art,Sketchbook A3,4,0.15,184.13,29.59
+ORD-1970,2024-01-26,2024-01-30,First Class,Corporate,West,Washington,Furniture,Bookcases,Wall-Mount Shelf,3,0,1175.3,330.73
+ORD-1971,2024-08-07,2024-08-11,Standard Class,Consumer,East,Virginia,Office Supplies,Art,Sketchbook A3,6,0,336.88,98.73
+ORD-1972,2023-11-11,2023-11-16,First Class,Corporate,Central,Ohio,Furniture,Furnishings,Area Rug 5x7,1,0.1,177.96,-3.36
+ORD-1973,2024-10-15,2024-10-22,Second Class,Corporate,West,Arizona,Furniture,Chairs,Wooden Dining Chair,5,0.15,1094.58,-55.59
+ORD-1974,2023-10-10,2023-10-13,Standard Class,Consumer,South,Tennessee,Furniture,Tables,Oak Coffee Table,5,0.2,822.87,-62.26
+ORD-1975,2024-12-01,2024-12-06,Standard Class,Home Office,South,Kentucky,Office Supplies,Binders,Leather Binder Set,1,0.2,50.2,9.17
+ORD-1976,2023-12-28,2024-01-02,Second Class,Consumer,East,Virginia,Furniture,Bookcases,5-Shelf Bookcase,1,0.15,240.54,20.04
+ORD-1977,2023-11-30,2023-12-05,First Class,Corporate,Central,Missouri,Furniture,Furnishings,Area Rug 5x7,2,0,520.0,148.95
+ORD-1978,2024-10-29,2024-11-01,Standard Class,Consumer,South,Alabama,Technology,Phones,Wireless Headset,3,0,596.38,56.67
+ORD-1979,2024-09-15,2024-09-17,Second Class,Corporate,Central,Colorado,Technology,Machines,Laser Printer,4,0.3,682.45,4.86
+ORD-1980,2024-10-26,2024-10-27,Same Day,Corporate,East,Florida,Technology,Copiers,Office Copier Pro,5,0.3,566.72,-27.37
+ORD-1981,2023-10-03,2023-10-05,Second Class,Corporate,Central,Illinois,Office Supplies,Paper,Recycled Notebook Pack,2,0.1,74.55,19.51
+ORD-1982,2024-02-24,2024-02-27,Same Day,Consumer,East,Pennsylvania,Technology,Phones,Smartphone Stand,6,0.1,1334.9,139.75
+ORD-1983,2024-08-06,2024-08-13,First Class,Corporate,West,Nevada,Furniture,Furnishings,Wall Clock,5,0.2,892.3,-28.48
+ORD-1984,2023-11-18,2023-11-19,Second Class,Corporate,East,Georgia,Office Supplies,Appliances,Paper Shredder,5,0.1,231.43,46.7
+ORD-1985,2023-01-16,2023-01-18,Same Day,Consumer,East,Georgia,Office Supplies,Appliances,Label Printer,6,0,212.89,12.82
+ORD-1986,2024-12-07,2024-12-09,First Class,Consumer,East,Florida,Technology,Copiers,Compact Copier,3,0,647.87,140.64
+ORD-1987,2023-12-11,2023-12-18,Same Day,Home Office,Central,Colorado,Technology,Phones,Wireless Headset,1,0.2,236.63,41.4
+ORD-1988,2024-04-05,2024-04-11,Standard Class,Consumer,South,Alabama,Office Supplies,Paper,A4 Copy Paper 500ct,6,0.3,210.3,11.78
+ORD-1989,2023-01-08,2023-01-13,Standard Class,Consumer,Central,Missouri,Office Supplies,Art,Sketchbook A3,2,0.15,92.24,1.27
+ORD-1990,2023-11-01,2023-11-05,Second Class,Consumer,Central,Texas,Technology,Copiers,Compact Copier,3,0.1,548.26,12.9
+ORD-1991,2023-08-04,2023-08-08,Same Day,Corporate,Central,Colorado,Technology,Machines,Laser Printer,3,0,538.5,73.43
+ORD-1992,2023-08-18,2023-08-20,Second Class,Consumer,Central,Ohio,Technology,Phones,Wireless Headset,6,0,1054.29,118.14
+ORD-1993,2024-09-04,2024-09-05,Same Day,Home Office,West,California,Office Supplies,Binders,3-Ring Binder Pack,2,0,122.33,27.08
+ORD-1994,2023-05-10,2023-05-17,First Class,Home Office,South,Alabama,Furniture,Chairs,Wooden Dining Chair,4,0.1,891.21,204.4
+ORD-1995,2024-11-15,2024-11-16,Same Day,Home Office,Central,Texas,Technology,Accessories,Laptop Sleeve,1,0,178.14,26.83
+ORD-1996,2024-06-09,2024-06-15,Standard Class,Home Office,East,Pennsylvania,Furniture,Furnishings,Floor Lamp,6,0.3,1252.33,-166.41
+ORD-1997,2024-10-04,2024-10-05,Second Class,Home Office,West,Washington,Technology,Copiers,Office Copier Pro,6,0,1169.12,111.57
+ORD-1998,2024-05-23,2024-05-26,Second Class,Home Office,West,Washington,Technology,Phones,Wireless Headset,1,0.1,147.92,20.31
+ORD-1999,2023-07-02,2023-07-03,Second Class,Corporate,South,Alabama,Technology,Copiers,Office Copier Pro,6,0,1371.43,338.86
