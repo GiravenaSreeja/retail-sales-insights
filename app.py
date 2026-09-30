@@ -1,10 +1,10 @@
 """
-AI-Powered Retail Sales Insights Dashboard
+Retail Sales Insights Dashboard
 
 Run: streamlit run app.py
 
 Main dashboard for the project. Sidebar filters, KPI cards, charts,
-and an "AI insights" panel that writes a plain-English summary of
+and an automated insights panel that writes a plain-English summary of
 what the numbers are saying. The insights generator is template-based
 on purpose - no API key needed to demo it. There's a commented example
 at the bottom of generate_insights() showing how to swap in the OpenAI
@@ -26,7 +26,7 @@ def load_data():
 
 df = load_data()
 
-# ---------------- AI insights generator ----------------
+# ---------------- insights generator ----------------
 def generate_insights(data: pd.DataFrame) -> str:
     """Turns the key metrics into a natural-language executive summary.
 
@@ -46,8 +46,9 @@ def generate_insights(data: pd.DataFrame) -> str:
     trend = "upward" if len(monthly) > 1 and monthly.iloc[-1] > monthly.iloc[0] else "flat or declining"
 
     # discount story - this was the most interesting finding in my EDA
-    heavy_disc = data[data["Discount"] >= 0.2]
-    heavy_margin = (heavy_disc["Profit"].sum() / heavy_disc["Sales"].sum() * 100) if len(heavy_disc) else 0
+    # (same bucket as analysis.py and the SQL: strictly above 20%)
+    heavy_disc = data[data["Discount"] > 0.2]
+    heavy_margin = (heavy_disc["Profit"] / heavy_disc["Sales"]).mean() * 100 if len(heavy_disc) else 0
 
     lines = [
         f"Over the selected period, the business generated ${total_sales:,.0f} in sales "
@@ -58,7 +59,7 @@ def generate_insights(data: pd.DataFrame) -> str:
     ]
     if heavy_margin < 0:
         lines.append(
-            f"One red flag: orders with discounts of 20% or more are losing money "
+            f"One red flag: orders with discounts above 20% are losing money "
             f"({heavy_margin:.1f}% margin). I'd recommend capping deep discounts or "
             f"restricting them to high-margin categories."
         )
@@ -101,7 +102,7 @@ filtered = df[df["Region"].isin(regions) &
 
 # ---------------- header ----------------
 st.title("Retail Sales Insights Dashboard")
-st.caption("Interactive sales performance + AI-generated executive summary")
+st.caption("Interactive sales performance + automated executive summary")
 
 if filtered.empty:
     st.warning("No data matches those filters - try widening them a bit.")
@@ -140,8 +141,8 @@ top_prod = filtered.groupby("Product Name")["Profit"].sum().nlargest(10).reset_i
 st.plotly_chart(px.bar(top_prod, x="Profit", y="Product Name", orientation="h",
                        text_auto=".2s"), use_container_width=True)
 
-# ---------------- AI insights ----------------
-st.subheader("AI-Generated Insights")
+# ---------------- insights ----------------
+st.subheader("Automated Insights")
 if st.button("Generate summary"):
     with st.spinner("Crunching the numbers..."):
         st.info(generate_insights(filtered))

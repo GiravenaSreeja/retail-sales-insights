@@ -1,24 +1,24 @@
-# AI-Powered Retail Sales Insights Dashboard
+# Retail Sales Insights Dashboard
 
-An end-to-end data analytics project: I took a retail sales dataset, ran a full exploratory analysis in Python, answered the same questions in SQL, and built an interactive Streamlit dashboard on top — with an AI insights generator that writes a plain-English executive summary of whatever the filters show.
+An end-to-end data analytics project: I took a retail sales dataset, ran a full exploratory analysis in Python, answered the same questions in SQL, and built an interactive Streamlit dashboard on top — with an automated insights generator that writes a plain-English executive summary of whatever the filters show.
 
 ## Why I built this
 
 I wanted a project that looks like actual analyst work, not a Kaggle notebook that ends at a confusion matrix. So I picked the most classic analyst task there is — "here's two years of sales data, tell us what's going on" — and did the whole thing: cleaning, EDA, SQL, dashboard, and a stakeholder-facing summary.
 
-The AI part came from a real frustration: dashboards are great, but managers still ask "so what does this mean?" The insights generator closes that gap by turning the filtered metrics into a short written summary with recommendations. It runs on templates so it works with zero setup, but I left a commented example showing how to plug in the OpenAI API for real LLM output.
+The summary feature came from a real frustration: dashboards are great, but managers still ask "so what does this mean?" The insights generator closes that gap by turning the filtered metrics into a short written summary with recommendations. It runs on templates so it works with zero setup, but I left a commented example showing how to plug in the OpenAI API for real LLM output.
 
 ## What's in here
 
 - **data/sample_sales.csv** — 1,000 rows of synthetic retail data (orders, regions, categories, discounts, profit). Generated with `data/generate_data.py` so it's reproducible.
 - **analysis.py** — the EDA: category/region performance, monthly trends, and the discount-vs-margin analysis. Saves plots to `images/`.
-- **app.py** — the Streamlit dashboard: sidebar filters, KPI cards, Plotly charts, and the AI summary button.
+- **app.py** — the Streamlit dashboard: sidebar filters, KPI cards, Plotly charts, and the auto-summary button.
 - **sql/analysis_queries.sql** — 8 queries covering KPIs, trends, discount buckets, loss-making orders, and segment analysis.
 - **images/** — charts from the EDA.
 
 ## Key findings
 
-The most interesting thing I found: **orders with discounts of 20% or more have negative average margin (-4.4%)**. The company is literally paying customers to take products at those discount levels. That's the kind of finding that actually changes a promo strategy, and it's the first thing the AI summary flags.
+The most interesting thing I found: **orders with discounts of 20% or more have negative average margin (-4.4%)**. The company is literally paying customers to take products at those discount levels. That's the kind of finding that actually changes a promo strategy, and it's the first thing the summary flags.
 
 Other takeaways:
 - Technology has the highest margin (12.8%), Furniture drives the most revenue
